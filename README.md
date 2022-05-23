@@ -31,6 +31,13 @@ https://pythonspeed.com/
 
 Create custom function with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
 
+ 5 decorators that may useful specifically for[ Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
+ - @parallel
+ - @production
+ - @deployable
+ - @redirect (stdout)
+ - @stacktrace / @traceclass
+
 ## Git and Github
 
 [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
