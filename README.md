@@ -72,8 +72,11 @@ productivity:
 
 Presentations : https://speakerdeck.com
 
+Auto-complete short cut : https://espanso.org/
+
 
 ## other
+https://speakerdeck.com/ndemoor/what-is-docker?slide=6
 
 [How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
 
