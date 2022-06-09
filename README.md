@@ -37,6 +37,23 @@ Create custom function with [matplotlib](https://towardsdatascience.com/creating
  - @deployable
  - @redirect (stdout)
  - @stacktrace / @traceclass
+  
+Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
+
+[nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
+Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
+
+python-[asterisks](https://bas.codes/posts/python-asterisks) 
+
+## R ressources
+
+Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
+
+- Project structure
+- automatic testing
+- resproducibke environments
+- version control
+  
 
 ## Git and Github
 
@@ -46,7 +63,10 @@ Create custom function with [matplotlib](https://towardsdatascience.com/creating
 
 How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381)
 
+## Professional Programming 
 
+- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
+- [Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
 
 ## Career article 
 
