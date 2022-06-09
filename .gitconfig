@@ -1,0 +1,27 @@
+[credential]
+	helper = cache
+[user]
+	name = Julien PETOT
+	signingkey = C4D2B4318A027E23225EC51C22D7BE73D4190E2B
+        email = 48205834+jpetot@users.noreply.github.com
+
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	unstage = reset HEAD
+	go = checkout -b
+	b = branch -v
+	log = lg
+[pull]
+    rebase = true
+[core]
+	editor = vim
+[rerere]
+	enabled = true
+
+[commit]
+	gpgsign = true
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
