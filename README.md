@@ -65,7 +65,16 @@ How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT
 
 ## Professional Programming 
 
-- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
+[Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers): 
+- Ask For Feedback Early 
+- Be a Rubber Ducky, Find a Rubber Ducky
+- Get End-to-End First
+- Step Away From the Keyboard
+- Automate To Get More Done
+- You Can DRY Off Later
+- Take Meticulous Notes 
+- Plan for Tomorrow, Today, and more ...
+  
 - [Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
 
 ## Career article 
