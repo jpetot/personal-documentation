@@ -77,6 +77,9 @@ How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT
   
 - [Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
 
+### Computer-programming principle
+
+[Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
 ## Career article 
 
 How to waste your career, one comfortable year at a time
