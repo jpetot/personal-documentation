@@ -14,6 +14,10 @@
 
 ## Python or code docs 
 
+
+### Profiling 
+
+
 Python speed: 
 
 https://pythonspeed.com/
@@ -21,6 +25,8 @@ https://pythonspeed.com/
 - Docker: Production-ready Docker packaging for Python developers
 - Large datasets: Process large datasets without running out of memory
 - Performance: Speed up your code, must read [this](https://pythonspeed.com/articles/vectorization-python?utm_campaign=Data_Elixir&utm_source=Data_Elixir_371/)
+
+[how to profile in python](https://codesolid.com/how-do-i-profile-python-code/)(from The PyCoder’s Weekly newsletter)
   
 
 [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
@@ -76,6 +82,9 @@ How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT
 - Plan for Tomorrow, Today, and more ...
   
 - [Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
+
+- [awesome-data-leadership](https://github.com/ronikobrosly/awesome-data-leadership?utm_campaign=Data_Elixir&utm_source=Data_Elixir_391#readme)
+
 
 ### Computer-programming principle
 
