@@ -64,6 +64,8 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 ## Git and Github
 
 [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+[ohshitgit](https://ohshitgit.com/)
   
 ## Science 
 
