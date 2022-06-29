@@ -83,7 +83,7 @@ How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT
 - Take Meticulous Notes 
 - Plan for Tomorrow, Today, and more ...
   
-- [Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
+[Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
 
 - [awesome-data-leadership](https://github.com/ronikobrosly/awesome-data-leadership?utm_campaign=Data_Elixir&utm_source=Data_Elixir_391#readme)
 
