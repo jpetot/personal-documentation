@@ -117,11 +117,16 @@ Presentations : https://speakerdeck.com
 
 Auto-complete short cut : https://espanso.org/
 
-## Sports :
+## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
-## other
-https://speakerdeck.com/ndemoor/what-is-docker?slide=6
+
+specifically : 
+- https://github.com/devinpleuler/analytics-handbook 
+- https://github.com/eddwebster/football_analytics 
+
+## Other
+[speakerdeck]https://speakerdeck.com/ndemoor/what-is-docker?slide=6
 
 [How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
 
