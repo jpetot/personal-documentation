@@ -117,10 +117,14 @@ Presentations : https://speakerdeck.com
 
 Auto-complete short cut : https://espanso.org/
 
-
+## Sports :
+A greate guide of different resources in sport analytics (with books, blog and github pages)
+https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
 ## other
 https://speakerdeck.com/ndemoor/what-is-docker?slide=6
 
 [How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
 
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
+
+
