@@ -91,6 +91,8 @@ How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT
 ### Computer-programming principle
 
 [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
+
+[don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 ## Career article 
 
 How to waste your career, one comfortable year at a time
