@@ -134,4 +134,8 @@ specifically :
 
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
 
+## thread twitter : 
+
+wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
+- Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
 
