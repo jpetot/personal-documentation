@@ -88,6 +88,14 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 - [awesome-data-leadership](https://github.com/ronikobrosly/awesome-data-leadership?utm_campaign=Data_Elixir&utm_source=Data_Elixir_391#readme)
 
+[How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) 
+- poetry 
+- automate test using tox
+- Github action 
+- use and automate the release on Pypi
+- improve code quality with code coverage (with code coverage report)
+ 
+
 
 ### Computer-programming principle
 
