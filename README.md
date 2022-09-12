@@ -127,6 +127,8 @@ specifically :
 - https://github.com/devinpleuler/analytics-handbook 
 - https://github.com/eddwebster/football_analytics 
 
+https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html 
+
 ## Other
 [speakerdeck]https://speakerdeck.com/ndemoor/what-is-docker?slide=6
 
