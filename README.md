@@ -51,6 +51,7 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 
 python-[asterisks](https://bas.codes/posts/python-asterisks) 
 
+- python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/) 
 ## R ressources
 
 Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
