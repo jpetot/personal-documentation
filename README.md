@@ -42,6 +42,7 @@
 ### Others
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
+
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
 
 - Create custom function with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
@@ -97,7 +98,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
   - use and automate the release on Pypi
   - improve code quality with code coverage (with code coverage report)
  
-
+- [Want cleaner code? Use the Rule of six](https://davidamos.dev/the-rule-of-six/)
 
 ### Computer-programming principle
 
