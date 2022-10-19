@@ -1,0 +1,9 @@
+{
+    "notebook.output.textLineLimit": 40,
+    "workbench.editorAssociations": {
+        "*.pdf": "default"
+    },
+    "jupyter.askForKernelRestart": false,
+    "workbench.colorTheme": "Solarized Light",
+    "explorer.confirmDelete": false
+}
