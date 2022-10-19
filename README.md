@@ -14,13 +14,9 @@
 
 ## Python or code docs 
 
-
 ### Profiling 
 
-
-Python speed: 
-
-https://pythonspeed.com/
+[Python speed](https://pythonspeed.com/)
 
 - Docker: Production-ready Docker packaging for Python developers
 - Large datasets: Process large datasets without running out of memory
@@ -28,28 +24,33 @@ https://pythonspeed.com/
 
 [how to profile in python](https://codesolid.com/how-do-i-profile-python-code/)(from The PyCoder’s Weekly newsletter)
   
+### Testing
 
-[Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
-
-[Test like a Data scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
-
-[General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-
-Create custom function with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
-
- 5 decorators that may useful specifically for[ Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
- - @parallel
- - @production
- - @deployable
- - @redirect (stdout)
- - @stacktrace / @traceclass
+- Using pytest as a [beginner](https://testdriven.io/blog/pytest-for-beginners/) 
+- [Test like a Data scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
   
-Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
+### Decorators 
 
-[nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
+- 5 decorators that may useful specifically for[ Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
+   - @parallel
+   - @production
+   - @deployable
+   - @redirect (stdout)
+   - @stacktrace / @traceclass
+  
+- Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
+### Others
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+
+- [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
+
+- Create custom function with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
+
+
+- [nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
 Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
 
-python-[asterisks](https://bas.codes/posts/python-asterisks) 
+- python-[asterisks](https://bas.codes/posts/python-asterisks) 
 
 - python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/) 
 ## R ressources
@@ -64,9 +65,9 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 ## Git and Github
 
-[Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+- [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): One (not easy) distinction you must understand when using git
 
-[ohshitgit](https://ohshitgit.com/)
+- [ohshitgit](https://ohshitgit.com/): good and bad situation when using git
   
 ## Science & Engineering 
 
@@ -75,34 +76,36 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 ## Professional Programming 
 
-[Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers): 
-- Ask For Feedback Early 
-- Be a Rubber Ducky, Find a Rubber Ducky
-- Get End-to-End First
-- Step Away From the Keyboard
-- Automate To Get More Done
-- You Can DRY Off Later
-- Take Meticulous Notes 
-- Plan for Tomorrow, Today, and more ...
+- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers): 
+  - Ask For Feedback Early 
+  - Be a Rubber Ducky, Find a Rubber Ducky
+  - Get End-to-End First
+  - Step Away From the Keyboard
+  - Automate To Get More Done
+  - You Can DRY Off Later
+  - Take Meticulous Notes 
+  - Plan for Tomorrow, Today, and more ...
   
-[Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
+- [Must read article from charlax, my manager](https://github.com/charlax/professional-programming#must-read-articles)
 
 - [awesome-data-leadership](https://github.com/ronikobrosly/awesome-data-leadership?utm_campaign=Data_Elixir&utm_source=Data_Elixir_391#readme)
 
-[How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) 
-- poetry 
-- automate test using tox
-- Github action 
-- use and automate the release on Pypi
-- improve code quality with code coverage (with code coverage report)
+- [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) 
+  - poetry 
+  - automate test using tox
+  - Github action 
+  - use and automate the release on Pypi
+  - improve code quality with code coverage (with code coverage report)
  
 
 
 ### Computer-programming principle
 
-[Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
+- [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
 
-[don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+  
 ## Career article 
 
 How to waste your career, one comfortable year at a time
