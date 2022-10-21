@@ -6,9 +6,7 @@ ln -sf ~/personnal-documentation/.dotfiles/.starship.toml ~/.config/starship.tom
 ln -sf ~/personnal-documentation/.dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ln -sf ~/personnal-documentation/.dotfiles/vscode/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
 
-ln -sf ~/personnal-documentation/espanso/match /Users/julien/Library/Application Support/espanso/match
-ln -sf ~/personnal-documentation/.dotfiles/espanso/scripts /Users/julien/Library/Application Support/espanso/scripts
-
+ln -sf ~/personnal-documentation/.dotfiles/espanso/base.yml /Users/julien/Library/Application\ Support/espanso/match/base.yml
 
 
 

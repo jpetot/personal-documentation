@@ -28,9 +28,18 @@ alias c="code ."
 alias perso="cd ~/personnal-documentation"
 
 
+export ZSH=$HOME/.oh-my-zsh
+ZSH_THEME="robbyrussell"
+plugins=(
+  zsh-autosuggestions
+)
+source $ZSH/oh-my-zsh.sh
+
 # starship
 eval "$(starship init zsh)"
 
-export ZSH=$HOME/.oh-my-zsh
+
 export GPG_TTY=$(tty)
 export PATH="/Users/julien/Library/Python/3.9/bin:$PATH"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
