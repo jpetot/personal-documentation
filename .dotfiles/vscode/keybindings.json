@@ -44,4 +44,13 @@
         "key": "cmd+alt+right",
         "command": "workbench.action.navigateRight"
     },
+    {
+        "key": "shift+cmd+r",
+        "command": "pylance.extractMethod"
+    },
+    {
+        "key": "shift+cmd+r",
+        "command": "-rerunSearchEditorSearch",
+        "when": "inSearchEditor"
+    },
 ]
