@@ -1,5 +1,3 @@
-[credential]
-	helper = cache
 [user]
 	name = Julien PETOT
 	signingkey = E94BAF17F75900F10D6E61532B30985989A3D923
@@ -28,3 +26,5 @@
 	process = git-lfs filter-process
 [gpg]
 	program = gpg
+[credential]
+	helper = cache --timeout=1800

@@ -11,8 +11,7 @@ alias gp='git push'
 alias gcam='git commit -am'
 alias gm='git commit -m'
 alias gb='git branch' 
-alias gl='git lg'
-
+alias lg='git lg'
 
 alias projets='cd ~/projets'
 alias avatar='cd ~/projets/avatar'
@@ -34,6 +33,7 @@ plugins=(
   zsh-autosuggestions
   git
 )
+
 source $ZSH/oh-my-zsh.sh
 
 # starship
@@ -44,3 +44,5 @@ export GPG_TTY=$(tty)
 export PATH="/Users/julien/Library/Python/3.9/bin:$PATH"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+alias gl='git lg' # after git pluging
+
