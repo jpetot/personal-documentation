@@ -1,7 +1,21 @@
 
 # Personal documentation
 
-1. [Data science newsletter](## Data science newsletter)
+1. [Data science newsletter](#data-science-newsletter)
+2. [Typing practice](#typing-practice)
+3. [Python or code docs](#python-or-code-docs)
+4. [Git and Github](#git-and-github)
+5. [Science & Engineering](#science--engineering) 
+6. [Professional Programming](#professional-programming)
+7. [Computer-programming principle](#computer-programming-principle)
+8. [Career article](#career-article)
+9. [Tools](#tools)
+10. [Other](#other)
+11. [thread twitter](#thread-twitter) 
+
+
+
+
 
 ## Data science newsletter
 
@@ -154,7 +168,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
 
-## thread twitter : 
+## thread twitter
 
 wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
 - Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
