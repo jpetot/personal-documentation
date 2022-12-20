@@ -6,5 +6,10 @@
     "jupyter.askForKernelRestart": false,
     "workbench.colorTheme": "Solarized Light",
     "explorer.confirmDelete": false,
-    "window.zoomLevel": 1
+    "python.envFile": "${workspaceFolder}/.env.dev",
+    "python.testing.pytestEnabled": true,
+    "testing.alwaysRevealTestOnStateChange": true,
+    "cSpell.userWords": [
+        "avatarizations"
+    ]
 }

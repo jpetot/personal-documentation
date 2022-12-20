@@ -173,3 +173,6 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
 - Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
 
+## Books (to read)
+
+[The Care and Feeding of Data Scientists](https://www.oreilly.com/library/view/the-care-and/9781492053972/)

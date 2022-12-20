@@ -25,7 +25,7 @@ alias paper='cd ~/projets/paper/avatar-paper'
 alias julien-analysis='cd ~/projets/julien-analysis'
 alias c="code ."
 alias perso="cd ~/personnal-documentation"
-
+alias client='cd ~/projets/avatar/client'
 
 export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"
@@ -46,3 +46,4 @@ export PATH="/Users/julien/Library/Python/3.9/bin:$PATH"
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 alias gl='git lg' # after git pluging
 
+export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
