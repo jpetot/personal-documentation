@@ -124,7 +124,8 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 - [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-  
+- [CAP theorem](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_CAP)
+
 ## Career article 
 
 How to waste your career, one comfortable year at a time

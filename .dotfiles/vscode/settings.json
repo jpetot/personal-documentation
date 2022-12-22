@@ -11,5 +11,7 @@
     "testing.alwaysRevealTestOnStateChange": true,
     "cSpell.userWords": [
         "avatarizations"
-    ]
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 1
 }
