@@ -1,17 +1,25 @@
 
 # Personal documentation
 
-1. [Data science newsletter](#data-science-newsletter)
-2. [Typing practice](#typing-practice)
-3. [Python or code docs](#python-or-code-docs)
-4. [Git and Github](#git-and-github)
-5. [Science & Engineering](#science--engineering) 
-6. [Professional Programming](#professional-programming)
-7. [Computer-programming principle](#computer-programming-principle)
-8. [Career article](#career-article)
-9. [Tools](#tools)
-10. [Other](#other)
-11. [thread twitter](#thread-twitter) 
+- [Personal documentation](#personal-documentation)
+  - [Data science newsletter](#data-science-newsletter)
+  - [Typing practice](#typing-practice)
+  - [Python or code docs](#python-or-code-docs)
+    - [Profiling](#profiling)
+    - [Testing](#testing)
+    - [Decorators](#decorators)
+    - [Others](#others)
+  - [R ressources](#r-ressources)
+  - [Git and Github](#git-and-github)
+  - [Science \& Engineering](#science--engineering)
+  - [Professional Programming](#professional-programming)
+    - [Computer-programming principle](#computer-programming-principle)
+  - [Career article](#career-article)
+  - [Tools](#tools)
+  - [Sports](#sports)
+  - [Other](#other)
+  - [thread twitter](#thread-twitter)
+  - [Books (to read)](#books-to-read)
 
 
 
@@ -117,6 +125,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
   - improve code quality with code coverage (with code coverage report)
  
 - [Want cleaner code? Use the Rule of six](https://davidamos.dev/the-rule-of-six/)
+- [Software skills for a Datascientist](https://ericmjl.github.io/essays-on-data-science/software-skills/)
 
 ### Computer-programming principle
 
