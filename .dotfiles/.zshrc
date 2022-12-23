@@ -26,6 +26,7 @@ alias julien-analysis='cd ~/projets/julien-analysis'
 alias c="code ."
 alias perso="cd ~/personnal-documentation"
 alias client='cd ~/projets/avatar/client'
+alias gpvw='gh pr view -w'
 
 export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"

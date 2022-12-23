@@ -12,5 +12,6 @@
     "cSpell.userWords": [
         "avatarizations"
     ],
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": -1
 }
