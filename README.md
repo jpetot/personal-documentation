@@ -142,7 +142,7 @@ How to waste your career, one comfortable year at a time
 - https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable?s=r
 
 [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
-
+- Why [Full stack data scientist is better than specific](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/?utm_source=substack&utm_medium=email)
 
 For New Data Scientists, Domain Knowledge Is Sometimes More Important than Technical [Skills](https://towardsdatascience.com/for-new-data-scientists-domain-knowledge-is-sometimes-more-important-than-technical-skills-90e103a8c4da)
 
