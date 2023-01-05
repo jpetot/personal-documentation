@@ -171,6 +171,8 @@ specifically :
 
 https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html 
 
+[Soccer analysis in 2022](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html)
+
 ## Other
 [speakerdeck]https://speakerdeck.com/ndemoor/what-is-docker?slide=6
 
