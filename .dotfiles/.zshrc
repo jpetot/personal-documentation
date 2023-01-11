@@ -28,6 +28,8 @@ alias perso="cd ~/personnal-documentation"
 alias client='cd ~/projets/avatar/client'
 alias gpvw='gh pr view -w'
 
+alias make='gmake'
+
 export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"
 plugins=(
