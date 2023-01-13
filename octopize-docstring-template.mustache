@@ -1,0 +1,41 @@
+{{! Octopize Docstring Template }}
+{{summaryPlaceholder}}
+
+{{extendedSummaryPlaceholder}}
+{{#argsExist}}
+
+Arguments
+---------
+{{#args}}
+    {{var}}:
+	    {{descriptionPlaceholder}}
+{{/args}}
+{{/argsExist}}
+{{#kwargsExist}}
+
+Keyword Arguments
+-----------------
+{{#kwargs}}
+    {{var}}:
+	    {{descriptionPlaceholder}}
+{{/kwargs}}
+{{/kwargsExist}}
+{{#returnsExist}}
+
+Returns
+-------
+{{#returns}}
+    {{var}}:
+        {{descriptionPlaceholder}}
+{{/returns}}
+{{/returnsExist}}
+
+Examples
+--------
+>>> df = pd.DataFrame(np.array(([1, 2, 3], [4, 5, 6])),
+...                   index=['mouse', 'rabbit'],
+...                   columns=['one', 'two', 'three'])
+>>> df
+        one  two  three
+mouse     1    2      3
+rabbit    4    5      6
