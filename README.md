@@ -38,6 +38,10 @@
 
 ## Python or code docs 
 
+### Data Science
+
+[the illustrated machine learning website](https://illustrated-machine-learning.github.io/index.html)
+
 ### Profiling 
 
 [Python speed](https://pythonspeed.com/)

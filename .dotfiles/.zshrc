@@ -26,7 +26,7 @@ alias julien-analysis='cd ~/projets/julien-analysis'
 alias c="code ."
 alias perso="cd ~/personnal-documentation"
 alias client='cd ~/projets/avatar/client'
-alias gpvw='gh pr view -w'
+alias ghpv='gh pr view -w'
 
 alias make='gmake'
 
