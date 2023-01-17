@@ -165,6 +165,11 @@ Presentations : https://speakerdeck.com
 
 Auto-complete short cut : https://espanso.org/
 
+rectangle (for macos) 
+
+[zsh autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
+
+
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
