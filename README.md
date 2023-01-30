@@ -132,6 +132,8 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Software skills for a Datascientist](https://ericmjl.github.io/essays-on-data-science/software-skills/)
 
 - [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
+- [logging owasp cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
+
 ### Computer-programming principle
 
 - [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
