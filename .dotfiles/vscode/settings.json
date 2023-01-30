@@ -10,6 +10,7 @@
     "python.testing.pytestEnabled": true,
     "testing.alwaysRevealTestOnStateChange": true,
     "cSpell.userWords": [
+        "avatarization",
         "avatarizations"
     ],
     "autoDocstring.docstringFormat": "numpy",

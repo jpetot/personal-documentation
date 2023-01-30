@@ -131,6 +131,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Want cleaner code? Use the Rule of six](https://davidamos.dev/the-rule-of-six/)
 - [Software skills for a Datascientist](https://ericmjl.github.io/essays-on-data-science/software-skills/)
 
+- [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
 ### Computer-programming principle
 
 - [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 

@@ -27,6 +27,8 @@ alias c="code ."
 alias perso="cd ~/personnal-documentation"
 alias client='cd ~/projets/avatar/client'
 alias ghpv='gh pr view -w'
+alias client='cd ~/projets/avatar/client/'
+alias vzsh='vim ~/personnal-documentation/.dotfiles/.zshrc'
 
 alias make='gmake'
 
