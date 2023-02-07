@@ -19,5 +19,6 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "terminal.integrated.enableMultiLinePasteWarning": false
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "diffEditor.maxFileSize": 400
 }

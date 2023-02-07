@@ -172,7 +172,7 @@ rectangle (for macos)
 
 [zsh autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 
-
+[run gh action locally with act](https://github.com/nektos/act)
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
