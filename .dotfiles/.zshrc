@@ -12,6 +12,7 @@ alias gcam='git commit -am'
 alias gm='git commit -m'
 alias gb='git branch' 
 alias lg='git lg'
+alias ghpc='gh pr create'
 
 alias projets='cd ~/projets'
 alias avatar='cd ~/projets/avatar'

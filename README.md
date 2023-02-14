@@ -155,6 +155,8 @@ For New Data Scientists, Domain Knowledge Is Sometimes More Important than Techn
 
 reversed [interview](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md) 
 
+how to make your [resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) 
+
 structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) 
 
 [makers vs managers](http://paulgraham.com/makersschedule.html)
@@ -173,6 +175,10 @@ rectangle (for macos)
 [zsh autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 
 [run gh action locally with act](https://github.com/nektos/act)
+
+[overleaf](https://www.overleaf.com/) - latex online and collaborative
+
+
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
