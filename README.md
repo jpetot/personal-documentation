@@ -40,7 +40,9 @@
 
 ### Data Science
 
-[the illustrated machine learning website](https://illustrated-machine-learning.github.io/index.html)
+- [the illustrated machine learning website](https://illustrated-machine-learning.github.io/index.html)
+- [VAE and AE](https://avandekleut.github.io/vae/)
+ 
 
 ### Profiling 
 
@@ -141,6 +143,9 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 - [CAP theorem](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_CAP)
+- [10 principles for good code](https://www.dein.fr/posts/2015-10-01-10-principles-for-good-code)
+- [duck typing](https://en.wikipedia.org/wiki/Duck_typing)
+
 
 ## Career article 
 
@@ -178,6 +183,7 @@ rectangle (for macos)
 
 [overleaf](https://www.overleaf.com/) - latex online and collaborative
 
+[Karabiner](https://karabiner-elements.pqrs.org/)
 
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
@@ -190,6 +196,9 @@ specifically :
 https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html 
 
 [Soccer analysis in 2022](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html)
+
+[py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling and more.
+
 
 ## Other
 [speakerdeck]https://speakerdeck.com/ndemoor/what-is-docker?slide=6

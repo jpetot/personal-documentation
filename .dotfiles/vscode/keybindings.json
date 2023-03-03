@@ -53,4 +53,75 @@
         "command": "-rerunSearchEditorSearch",
         "when": "inSearchEditor"
     },
+    {
+        "key": "alt+cmd+[Period]",
+        "command": "breadcrumbs.focus",
+        "when": "breadcrumbsPossible && breadcrumbsVisible"
+    },
+    {
+        "key": "cmd+[Period]",
+        "command": "-breadcrumbs.focus",
+        "when": "breadcrumbsPossible && breadcrumbsVisible"
+    },
+    {
+        "key": "cmd+[Period]",
+        "command": "workbench.action.splitEditor"
+    },
+    {
+        "key": "ctrl+shift+alt+cmd+[Period]",
+        "command": "-workbench.action.splitEditor"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "-editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "-editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+k shift+cmd+left",
+        "command": "-workbench.action.moveEditorLeftInGroup"
+    },
+    {
+        "key": "cmd+k left",
+        "command": "-workbench.action.moveActiveEditorGroupLeft"
+    },
+    {
+        "key": "cmd+k right",
+        "command": "-workbench.action.moveActiveEditorGroupRight"
+    },
+    {
+        "key": "cmd+k shift+cmd+right",
+        "command": "-workbench.action.moveEditorRightInGroup"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "workbench.action.moveEditorToLeftGroup"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "workbench.action.moveEditorToRightGroup"
+    },
+    {
+        "key": "cmd+k",
+        "command": "terminal.focus"
+    },
+    {
+        "key": "cmd+r",
+        "command": "workbench.action.terminal.clear",
+        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "cmd+k",
+        "command": "-workbench.action.terminal.clear",
+        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "cmd+k",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    },
 ]

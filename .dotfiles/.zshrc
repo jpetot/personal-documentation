@@ -10,7 +10,7 @@ alias ga='git add'
 alias gp='git push'
 alias gcam='git commit -am'
 alias gm='git commit -m'
-alias gb='git branch' 
+alias gb='git branch | tee' 
 alias lg='git lg'
 alias ghpc='gh pr create'
 
@@ -31,7 +31,7 @@ alias ghpv='gh pr view -w'
 alias client='cd ~/projets/avatar/client/'
 alias vzsh='vim ~/personnal-documentation/.dotfiles/.zshrc'
 alias apython="cd ~/projets/avatar-python"
-
+alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
 
 export ZSH=$HOME/.oh-my-zsh

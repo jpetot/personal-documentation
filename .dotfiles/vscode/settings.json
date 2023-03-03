@@ -15,7 +15,6 @@
     ],
     "autoDocstring.docstringFormat": "numpy",
     "autoDocstring.customTemplatePath": "/Users/julien/personnal-documentation/octopize-docstring-template.mustache",
-    "editor.multiCursorModifier": "ctrlCmd",
     "[python]": {
         "editor.formatOnType": true
     },
