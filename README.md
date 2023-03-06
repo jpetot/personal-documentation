@@ -42,7 +42,8 @@
 
 - [the illustrated machine learning website](https://illustrated-machine-learning.github.io/index.html)
 - [VAE and AE](https://avandekleut.github.io/vae/)
- 
+- [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+
 
 ### Profiling 
 
