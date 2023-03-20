@@ -57,3 +57,4 @@ export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 export LDFLAGS=-L/usr/local/opt/openssl/lib
 export CPPFLAGS=-I/usr/local/opt/openssl/include
 export PATH="/opt/homebrew/Cellar/postgresql@14/14.6_1.reinstall/bin:$PATH"
+export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"

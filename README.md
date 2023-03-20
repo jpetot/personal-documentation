@@ -85,6 +85,9 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 - python-[asterisks](https://bas.codes/posts/python-asterisks) 
 
 - python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/) 
+
+- awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
+
 ## R ressources
 
 Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
@@ -166,6 +169,8 @@ how to make your [resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a
 structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) 
 
 [makers vs managers](http://paulgraham.com/makersschedule.html)
+
+[the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)

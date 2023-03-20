@@ -49,7 +49,8 @@ matches:
     vars:
       - name: clip
         type: "clipboard"
- 
+  - trigger: :nomail
+    replace: "#No rsvp received#"
 
 
 
