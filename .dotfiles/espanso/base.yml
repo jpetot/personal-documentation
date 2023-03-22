@@ -36,7 +36,7 @@ matches:
 
   # gif 
   - trigger: ":charlax-party"
-    image_path: "/Users/julien/projets/personnal-documentation/img/charlax-party.gif"
+    image_path: "/Users/julien/personnal-documentation/img/charlax-party.gif"
 
 # link
   - trigger: :mdi
@@ -51,7 +51,7 @@ matches:
         type: "clipboard"
   - trigger: :nomail
     replace: "#No rsvp received#"
-
-
+  - trigger: :thread
+    image_path: "/Users/julien/personnal-documentation/img/Slack-Reply-To-Thread.png"
 
  # And much more! For more information, visit the docs: https://espanso.org/docs/
