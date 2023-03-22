@@ -172,6 +172,10 @@ structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure
 
 [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
+[What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
+with some great advices as conclusion.
+
+
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
   
@@ -190,6 +194,10 @@ rectangle (for macos)
 [overleaf](https://www.overleaf.com/) - latex online and collaborative
 
 [Karabiner](https://karabiner-elements.pqrs.org/)
+
+[Unnatural scroll wheel](https://github.com/ther0n/UnnaturalScrollWheels)
+
+[vimium](https://addons.mozilla.org/fr/firefox/addon/vimium-ff/)
 
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
