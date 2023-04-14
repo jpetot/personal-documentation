@@ -19,5 +19,10 @@
         "editor.formatOnType": true
     },
     "terminal.integrated.enableMultiLinePasteWarning": false,
-    "diffEditor.maxFileSize": 400
+    "diffEditor.maxFileSize": 400,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [
+        "./platform/api"
+    ],
+    "python.linting.lintOnSave": false,
 }

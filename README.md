@@ -43,7 +43,16 @@
 - [the illustrated machine learning website](https://illustrated-machine-learning.github.io/index.html)
 - [VAE and AE](https://avandekleut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+- [good neural networks vizualisation in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
 
+### Efficient similarity search 
+
+
+faiss: https://github.com/facebookresearch/faiss
+faiss manual https://www.pinecone.io/learn/faiss/
+
+hnswlib a faiss alternative https://github.com/nmslib/hnswlib
+HN: https://news.ycombinator.com/item?id=35378521
 
 ### Profiling 
 
@@ -88,6 +97,10 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 
 - awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 
+
+### Security 
+
+-[How to evaluate a python package](https://realpython.com/python-package-quality/#conclusion)
 ## R ressources
 
 Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
@@ -199,6 +212,8 @@ rectangle (for macos)
 
 [vimium](https://addons.mozilla.org/fr/firefox/addon/vimium-ff/)
 
+[awesome](https://github.com/sindresorhus/awesome)
+
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
@@ -221,6 +236,8 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
 
+[Learn chess (fr)](https://www.apprendre-les-echecs-24h.com/apprendre-a-jouer-aux-echecs/debuter-aux-echecs/)
+
 ## thread twitter
 
 wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
@@ -228,4 +245,5 @@ wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/Vol
 
 ## Books (to read)
 
+[Discover your next favorite book Powered by AI](https://www.librarian-ai.com)
 [The Care and Feeding of Data Scientists](https://www.oreilly.com/library/view/the-care-and/9781492053972/)

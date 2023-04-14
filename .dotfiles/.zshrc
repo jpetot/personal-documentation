@@ -58,3 +58,10 @@ export LDFLAGS=-L/usr/local/opt/openssl/lib
 export CPPFLAGS=-I/usr/local/opt/openssl/include
 export PATH="/opt/homebrew/Cellar/postgresql@14/14.6_1.reinstall/bin:$PATH"
 export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
+
+
+
+## export env variables 
+export AVATAR_BASE_URL="http://localhost:8000"
+export AVATAR_USERNAME="user_integration"
+export AVATAR_PASSWORD="password_integration"
