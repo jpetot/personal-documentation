@@ -27,7 +27,7 @@ matches:
 
   # Tech weekly date
   - trigger: ":tech"
-    replace: "Tech weekly - {{dayyear}}"
+    replace: "Tech Weekly - {{dayyear}}"
     vars:	 
       - name: dayyear
         type: date

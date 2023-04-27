@@ -191,7 +191,7 @@ with some great advices as conclusion.
 
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
-  
+- [how to make great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
 ## Tools 
 
 Presentations : https://speakerdeck.com

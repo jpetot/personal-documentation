@@ -54,11 +54,10 @@ export PATH="/Users/julien/Library/Python/3.9/bin:$PATH"
 alias gl='git lg' # after git pluging
 
 export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
-export LDFLAGS=-L/usr/local/opt/openssl/lib
-export CPPFLAGS=-I/usr/local/opt/openssl/include
 export PATH="/opt/homebrew/Cellar/postgresql@14/14.6_1.reinstall/bin:$PATH"
 export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
-
+export LDFLAGS="-L/opt/homebrew/opt/openssl@3/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include"
 
 
 ## export env variables 
