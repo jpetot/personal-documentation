@@ -29,3 +29,5 @@
 	program = gpg
 [credential]
 	helper = cache --timeout=1800
+[merge]
+	conflictstyle = diff3

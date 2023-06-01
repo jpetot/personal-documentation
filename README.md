@@ -44,6 +44,8 @@
 - [VAE and AE](https://avandekleut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [good neural networks vizualisation in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
+- [More Design tatterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
+- [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 
 ### Efficient similarity search 
 
@@ -116,7 +118,9 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): One (not easy) distinction you must understand when using git
 
 - [ohshitgit](https://ohshitgit.com/): good and bad situation when using git
-  
+- [how to speed up your git](https://www.git-tower.com/blog/git-performance) 
+- [why do you need a monorepo](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
+
 ## Science & Engineering 
 
 - How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381)
@@ -188,10 +192,13 @@ structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure
 [What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
 with some great advices as conclusion.
 
+[Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
 
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
 - [how to make great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
+- [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+
 ## Tools 
 
 Presentations : https://speakerdeck.com

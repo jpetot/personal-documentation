@@ -8,6 +8,7 @@ ln -sf ~/personnal-documentation/.dotfiles/vscode/keybindings.json ~/Library/App
 
 ln -sf ~/personnal-documentation/.dotfiles/espanso/base.yml /Users/julien/Library/Application\ Support/espanso/match/base.yml
 
-
+# dipslay app switcher on all monitors 
+defaults write com.apple.Dock appswitcher-all-displays -bool true; killall Dock
 
 
