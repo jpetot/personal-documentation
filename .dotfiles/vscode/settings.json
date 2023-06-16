@@ -26,4 +26,6 @@
     "python.linting.lintOnSave": false,
     "workbench.layoutControl.enabled": false,
     "python.formatting.provider": "black",
+    "editor.renderWhitespace": "none",
+    "diffEditor.ignoreTrimWhitespace": false,
 }

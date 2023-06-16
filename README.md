@@ -25,10 +25,11 @@
 
 
 
-## Data science newsletter
+## Data newsletter or blog
 
 - https://dataelixir.com/
 - https://towardsdatascience.com/tagged/the-variable
+- [Data Engineering Blog of Simon Späti](https://www.ssp.sh/entry/)
   
 ## Typing practice
 
@@ -81,6 +82,9 @@ HN: https://news.ycombinator.com/item?id=35378521
    - @stacktrace / @traceclass
   
 - Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
+
+
+
 ### Others
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
@@ -103,6 +107,8 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 ### Security 
 
 -[How to evaluate a python package](https://realpython.com/python-package-quality/#conclusion)
+
+
 ## R ressources
 
 Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
@@ -127,6 +133,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - "The best way to understand something is to break it. The second best way is to rewrite it from scratch without using any external libraries". [Vicki Boykis](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/?utm_source=substack&utm_medium=email)
 
 - A nice to explore datascience [interview book](https://dipranjan.github.io/dsinterviewqns/intro.html)
+- [You should read the doc](https://pycoders.com/link/10854/dwyqrejh5r)
 
 ## Professional Programming 
 
@@ -221,6 +228,8 @@ rectangle (for macos)
 
 [awesome](https://github.com/sindresorhus/awesome)
 
+[streamlit](https://streamlit.io/)
+
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
@@ -244,6 +253,9 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
 
 [Learn chess (fr)](https://www.apprendre-les-echecs-24h.com/apprendre-a-jouer-aux-echecs/debuter-aux-echecs/)
+
+[alternative open source front end](https://github.com/mendel5/alternative-front-ends#shazam)
+
 
 ## thread twitter
 
