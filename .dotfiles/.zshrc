@@ -34,6 +34,10 @@ alias apython="cd ~/projets/avatar-python"
 alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
 
+# function 
+function prpk() {poetry run pytest -k "$1";}
+
+
 export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"
 plugins=(
@@ -64,3 +68,6 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include"
 export AVATAR_BASE_URL="http://localhost:8000"
 export AVATAR_USERNAME="user_integration"
 export AVATAR_PASSWORD="password_integration"
+
+# export to avoid a OS bug
+export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES

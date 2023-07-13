@@ -25,12 +25,13 @@
 
 
 
-## Data newsletter or blog
+## Ressources
 
-- https://dataelixir.com/
-- https://towardsdatascience.com/tagged/the-variable
+- [Data science news letter](https://dataelixir.com/)
 - [Data Engineering Blog of Simon Späti](https://www.ssp.sh/entry/)
-  
+- [Survey of best data science podcast](https://www.coursera.org/articles/data-science-podcasts)
+
+
 ## Typing practice
 
 - https://www.keybr.com/
@@ -49,7 +50,6 @@
 - [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 
 ### Efficient similarity search 
-
 
 faiss: https://github.com/facebookresearch/faiss
 faiss manual https://www.pinecone.io/learn/faiss/
@@ -83,7 +83,9 @@ HN: https://news.ycombinator.com/item?id=35378521
   
 - Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
 
+### Documentation 
 
+- [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 
 ### Others
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
@@ -102,7 +104,7 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 - python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/) 
 
 - awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
-
+- [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 
 ### Security 
 
@@ -201,6 +203,7 @@ with some great advices as conclusion.
 
 [Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
 
+(FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
 - [how to make great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
@@ -255,6 +258,8 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 [Learn chess (fr)](https://www.apprendre-les-echecs-24h.com/apprendre-a-jouer-aux-echecs/debuter-aux-echecs/)
 
 [alternative open source front end](https://github.com/mendel5/alternative-front-ends#shazam)
+
+[datajockey](https://github.com/GeorgeMcIntire/DataJockey#readme)
 
 
 ## thread twitter
