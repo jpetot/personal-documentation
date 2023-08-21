@@ -166,6 +166,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
 - [logging owasp cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 
+- [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 ### Computer-programming principle
 
 - [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
@@ -176,6 +177,15 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [10 principles for good code](https://www.dein.fr/posts/2015-10-01-10-principles-for-good-code)
 - [duck typing](https://en.wikipedia.org/wiki/Duck_typing)
 
+- [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/#start-reviewing-immediately)
+	- Let computers do the boring parts
+	-  Settle style arguments with a style guide
+	- Start reviewing immediately
+	- Start high level and work your way down
+	- Be generous with code examples
+	- Never say “you”
+	- Frame feedback as requests, not commands
+	- Tie notes to principles, not opinion
 
 ## Career article 
 
@@ -232,6 +242,8 @@ rectangle (for macos)
 [awesome](https://github.com/sindresorhus/awesome)
 
 [streamlit](https://streamlit.io/)
+
+[clipy](https://github.com/Clipy/Clipy)
 
 ## Sports
 A greate guide of different resources in sport analytics (with books, blog and github pages)
