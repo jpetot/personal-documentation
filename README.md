@@ -186,6 +186,15 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 	- Never say “you”
 	- Frame feedback as requests, not commands
 	- Tie notes to principles, not opinion
+[How to Do Code Reviews Like a Human (Part Two)](https://mtlynch.io/human-code-reviews-2/)
+	- Aim to bring the code up a letter grade or two
+	- Limit feedback on repeated patterns
+	- Respect the scope of the review
+	- Look for opportunities to split up large reviews
+	- Offer sincere praise
+	- Grant approval when remaining fixes are trivial
+	- Handle stalemates proactively
+
 
 ## Career article 
 
