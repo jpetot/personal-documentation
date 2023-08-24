@@ -28,4 +28,5 @@
     "workbench.layoutControl.enabled": false,
     "python.formatting.provider": "black",
     "editor.renderWhitespace": "none",
+    "window.zoomLevel": 1,
 }

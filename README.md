@@ -196,6 +196,20 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 	- Grant approval when remaining fixes are trivial
 	- Handle stalemates proactively
 
+[How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+	- Review your own code first 
+	- Write a clear changelist description
+	- Automate the easy stuff
+	- Answer questions with the code itself
+	- Narrowly scope changes
+	- Separate functional and non-functional changes
+	- Break up large changelists
+	- Respond graciously to critiques
+	- Be patient when your reviewer is wrong
+	- Communicate your responses explicitly
+	- Artfully solicit missing information
+	- Award all ties to your reviewer
+	- Minimize lag between rounds of review
 
 ## Career article 
 
