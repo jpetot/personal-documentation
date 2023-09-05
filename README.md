@@ -243,6 +243,12 @@ productivity:
 - [how to make great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
 - [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 
+
+### Hiring & Onboarding 
+
+- [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
+
+
 ## Tools 
 
 Presentations : https://speakerdeck.com

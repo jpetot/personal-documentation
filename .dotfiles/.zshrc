@@ -22,6 +22,7 @@ alias api='cd ~/projets/avatar/platform/api'
 alias dotfiles='cd ~/personnal-documentation/.dotfiles'
 alias saiph='cd ~/projets/saiph'
 alias avatar-python='cd ~/projets/avatar-python'
+alias apython='cd ~/projets/avatar-python'
 alias paper='cd ~/projets/paper/avatar-paper'
 alias julien-analysis='cd ~/projets/julien-analysis'
 alias c="code ."
@@ -33,6 +34,8 @@ alias vzsh='vim ~/personnal-documentation/.dotfiles/.zshrc'
 alias apython="cd ~/projets/avatar-python"
 alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
+alias m='make'
+
 
 # function 
 function prpk() {poetry run pytest -k "$1";}
