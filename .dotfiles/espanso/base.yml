@@ -15,6 +15,15 @@ matches:
   - trigger: ":jp"
     replace: "Julien Petot"
 
+  - trigger: ":gg"
+    replace: "!google"
+
+  - trigger: ":mail"
+    replace: "julien.petot@yahoo.fr"
+
+  - trigger: ":mpro"
+    replace: "julien@octopize.io"
+
   # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
 
   # But matches can also be dynamic:

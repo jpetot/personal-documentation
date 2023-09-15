@@ -13,6 +13,7 @@ alias gm='git commit -m'
 alias gb='git branch | tee' 
 alias lg='git lg'
 alias ghpc='gh pr create'
+alias gpl='git pull'
 
 alias projets='cd ~/projets'
 alias avatar='cd ~/projets/avatar'
@@ -65,12 +66,15 @@ export PATH="/opt/homebrew/Cellar/postgresql@14/14.6_1.reinstall/bin:$PATH"
 export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
 export LDFLAGS="-L/opt/homebrew/opt/openssl@3/lib"
 export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include"
-
+# export diff so fancy for a better git diff 
+export  PATH="/Users/julien/projets/diff-so-fancy/diff-so-fancy:$PATH"
 
 ## export env variables 
 export AVATAR_BASE_URL="http://localhost:8000"
 export AVATAR_USERNAME="user_integration"
 export AVATAR_PASSWORD="password_integration"
+
+
 
 # export to avoid a OS bug
 export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
