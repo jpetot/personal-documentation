@@ -29,5 +29,4 @@
     "python.formatting.provider": "black",
     "editor.renderWhitespace": "none",
     "diffEditor.ignoreTrimWhitespace": false,
-    "window.zoomLevel": 1,
 }

@@ -83,6 +83,14 @@ HN: https://news.ycombinator.com/item?id=35378521
   
 - Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
 
+### Python environment manager 
+
+- [Hatch](https://andrich.me/2023/08/switching-to-hatch/)
+- Poetry 
+- Python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/)
+
+
+
 ### Documentation 
 
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
@@ -100,8 +108,6 @@ HN: https://news.ycombinator.com/item?id=35378521
 Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
 
 - python-[asterisks](https://bas.codes/posts/python-asterisks) 
-
-- python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/) 
 
 - awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
@@ -136,6 +142,13 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 - A nice to explore datascience [interview book](https://dipranjan.github.io/dsinterviewqns/intro.html)
 - [You should read the doc](https://pycoders.com/link/10854/dwyqrejh5r)
+- [4 Skills the Next Generation of Data Scientists Needs to Develop](https://hbr.org/2023/09/4-skills-the-next-generation-of-data-scientists-needs-to-develop)
+	- 1. Problem Spotting: Seeing the real issue
+	- 2. Problem Scoping: Gaining clarity and specificity
+	- 3. Problem Shepherding: Getting updates, gathering feedback
+	- 4. Solution Translating: Speaking in the language of the audience
+
+- [How-to Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 
 ## Professional Programming 
 
@@ -303,6 +316,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [datajockey](https://github.com/GeorgeMcIntire/DataJockey#readme)
 
+[The Best Crispy Roast Potatoes Ever Recipe](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
 
 ## thread twitter
 
