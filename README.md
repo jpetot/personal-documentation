@@ -95,6 +95,11 @@ HN: https://news.ycombinator.com/item?id=35378521
 
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 
+
+### Dashboard
+
+- https://github.com/mckinsey/vizro#readme
+
 ### Others
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
@@ -180,6 +185,10 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [logging owasp cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
+- [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
+
+
 ### Computer-programming principle
 
 - [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
@@ -302,6 +311,12 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling and more.
 
+## Cool and funny project 
+
+- [24 hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
+- [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/)
+- [Geolocating Sydney’s weirdest property](https://www.deanmarchiori.com/posts/2023-09-17-geolocating/)
+
 
 ## Other
 [speakerdeck]https://speakerdeck.com/ndemoor/what-is-docker?slide=6
@@ -317,6 +332,9 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 [datajockey](https://github.com/GeorgeMcIntire/DataJockey#readme)
 
 [The Best Crispy Roast Potatoes Ever Recipe](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
+
+
+[Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate
 
 ## thread twitter
 

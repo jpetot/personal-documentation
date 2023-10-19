@@ -21,7 +21,7 @@
     {
         "key": "cmd+down",
         "command": "cursorMove",
-        "when": "editorTextFocus", 
+        "when": "editorTextFocus",
         "args": {
             "to": "nextBlankLine",
             "by": "wrappedLine"
@@ -30,12 +30,12 @@
     {
         "key": "cmd+up",
         "command": "cursorMove",
-        "when": "editorTextFocus", 
+        "when": "editorTextFocus",
         "args": {
             "to": "prevBlankLine",
             "by": "wrappedLine"
         }
-    }, 
+    },
     {
         "key": "cmd+alt+left",
         "command": "workbench.action.navigateLeft"
@@ -167,5 +167,14 @@
         "key": "alt+cmd+g [KeyM]",
         "command": "-gitlens.diffWithPreviousInDiffLeft",
         "when": "editorTextFocus && isInDiffEditor && !isInDiffRightEditor && config.gitlens.keymap == 'chorded' && gitlens:activeFileStatus =~ /tracked/"
+    },
+    {
+        "key": "shift+cmd+u",
+        "command": "-workbench.action.output.toggleOutput",
+        "when": "workbench.panel.output.active"
+    },
+    {
+        "key": "shift+cmd+u",
+        "command": "workbench.action.debug.selectandstart"
     },
 ]
