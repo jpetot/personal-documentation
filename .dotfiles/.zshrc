@@ -34,10 +34,10 @@ alias vzsh='vim ~/personnal-documentation/.dotfiles/.zshrc'
 alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
 alias m='make'
-
+alias prp='DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest'
 
 # function 
-function prpk() {poetry run pytest -k "$1";}
+function prpk() {DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest -k "$1";}
 
 
 export ZSH=$HOME/.oh-my-zsh

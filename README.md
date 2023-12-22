@@ -89,7 +89,10 @@ HN: https://news.ycombinator.com/item?id=35378521
 - Poetry 
 - Python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/)
 
+### Python productivity
 
+- [Ptpython](https://realpython.com/ptpython-shell/)
+- ipython
 
 ### Documentation 
 
@@ -101,19 +104,13 @@ HN: https://news.ycombinator.com/item?id=35378521
 - https://github.com/mckinsey/vizro#readme
 
 ### Others
+
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
-
-
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-
 - Create custom function with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
-
-
 - [nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
 Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
-
 - python-[asterisks](https://bas.codes/posts/python-asterisks) 
-
 - awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 
@@ -121,6 +118,9 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 
 -[How to evaluate a python package](https://realpython.com/python-package-quality/#conclusion)
 
+## Learning Rust 
+
+- https://doc.rust-lang.org/book/title-page.html
 
 ## R ressources
 
@@ -130,6 +130,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - automatic testing
 - resproducibke environments
 - version control
+
   
 
 ## Git and Github
@@ -187,7 +188,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
-
+- [Random Thoughts 15 years into Software Engineering](https://roughlywritten.substack.com/p/random-thoughts-15-years-into-software)
 
 ### Computer-programming principle
 

@@ -177,4 +177,18 @@
         "key": "shift+cmd+u",
         "command": "workbench.action.debug.selectandstart"
     },
+    {
+        "key": "ctrl+shift+down",
+        "command": "workbench.action.toggleMultiCursorModifier"
+    },
+    {
+        "key": "tab",
+        "command": "editor.action.inlineSuggest.commit",
+        "when": "inlineSuggestionHasIndentationLessThanTabSize && inlineSuggestionVisible && !editorHoverFocused && !editorTabMovesFocus && !suggestWidgetVisible"
+    },
+    {
+        "key": "tab",
+        "command": "-editor.action.inlineSuggest.commit",
+        "when": "inlineSuggestionHasIndentationLessThanTabSize && inlineSuggestionVisible && !editorHoverFocused && !editorTabMovesFocus && !suggestWidgetVisible"
+    }
 ]
