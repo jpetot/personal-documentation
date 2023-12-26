@@ -88,6 +88,9 @@ HN: https://news.ycombinator.com/item?id=35378521
 - [Hatch](https://andrich.me/2023/08/switching-to-hatch/)
 - Poetry 
 - Python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/)
+- [When should you upgrade to Python 3.12 (and other versions)?](https://pythonspeed.com/articles/upgrade-python-3.12/) 
+	it is also a nice article to understand why you need to upgrade you package version.
+
 
 ### Python productivity
 
