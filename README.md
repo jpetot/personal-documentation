@@ -263,6 +263,9 @@ structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure
 
 [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
+[red flag for data analyst intereview](https://medium.com/learning-data/red-flags-to-watch-out-for-in-data-analyst-job-interviews-66addea5d3d2)
+
+
 [What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
 with some great advices as conclusion.
 
