@@ -237,6 +237,11 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 	- Award all ties to your reviewer
 	- Minimize lag between rounds of review
 
+### development Methodologies
+
+- [Shape up](https://ericmjl.github.io/blog/2023/10/5/shape-up-and-data-science-a-match-closer-to-agile-than-you-think/): Shape Up and Data Science: A Match Closer to Agile Than You Think
+
+
 ## Career article 
 
 How to waste your career, one comfortable year at a time
