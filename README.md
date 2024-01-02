@@ -2,35 +2,43 @@
 # Personal documentation
 
 - [Personal documentation](#personal-documentation)
-  - [Data science newsletter](#data-science-newsletter)
+  - [Resources](#resources)
   - [Typing practice](#typing-practice)
   - [Python or code docs](#python-or-code-docs)
+    - [Data Science](#data-science)
+    - [Efficient similarity search](#efficient-similarity-search)
     - [Profiling](#profiling)
     - [Testing](#testing)
     - [Decorators](#decorators)
+    - [Python environment manager](#python-environment-manager)
+    - [Python productivity](#python-productivity)
+    - [Documentation](#documentation)
+    - [Dashboard](#dashboard)
     - [Others](#others)
-  - [R ressources](#r-ressources)
+    - [Security](#security)
+  - [Learning Rust](#learning-rust)
+  - [R resources](#r-resources)
   - [Git and Github](#git-and-github)
   - [Science \& Engineering](#science--engineering)
   - [Professional Programming](#professional-programming)
     - [Computer-programming principle](#computer-programming-principle)
+    - [development Methodologies](#development-methodologies)
   - [Career article](#career-article)
+    - [Hiring \& Onboarding](#hiring--onboarding)
   - [Tools](#tools)
   - [Sports](#sports)
-  - [Other](#other)
-  - [thread twitter](#thread-twitter)
+  - [Cool and funny project](#cool-and-funny-project)
+  - [Others](#others-1)
+  - [thread X](#thread-x)
   - [Books (to read)](#books-to-read)
 
 
 
+## Resources
 
-
-## Ressources
-
-- [Data science news letter](https://dataelixir.com/)
+- [Data science newsletter](https://dataelixir.com/)
 - [Data Engineering Blog of Simon Späti](https://www.ssp.sh/entry/)
 - [Survey of best data science podcast](https://www.coursera.org/articles/data-science-podcasts)
-
 
 ## Typing practice
 
@@ -38,11 +46,11 @@
 - https://www.keyhero.com/test-dactylographie/test-gratuit/?lang=0
 
 
-## Python or code docs 
+## Python or code docs
 
 ### Data Science
 
-- [the illustrated machine learning website](https://illustrated-machine-learning.github.io/index.html)
+- [the illustrated machine-learning website](https://illustrated-machine-learning.github.io/index.html)
 - [VAE and AE](https://avandekleut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [good neural networks vizualisation in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
@@ -97,10 +105,10 @@ HN: https://news.ycombinator.com/item?id=35378521
 - [Ptpython](https://realpython.com/ptpython-shell/)
 - ipython
 
-### Documentation 
+### Documentation
 
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
-
+- [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 
 ### Dashboard
 
@@ -121,11 +129,11 @@ Detecting silent model failure. NannyML estimates performance with an algorithm 
 
 -[How to evaluate a python package](https://realpython.com/python-package-quality/#conclusion)
 
-## Learning Rust 
+## Learning Rust
 
 - https://doc.rust-lang.org/book/title-page.html
 
-## R ressources
+## R resources
 
 Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
 
@@ -143,6 +151,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [ohshitgit](https://ohshitgit.com/): good and bad situation when using git
 - [how to speed up your git](https://www.git-tower.com/blog/git-performance) 
 - [why do you need a monorepo](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
+- [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/#head-and-heads)
 
 ## Science & Engineering 
 
@@ -263,8 +272,7 @@ structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure
 
 [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
-[red flag for data analyst intereview](https://medium.com/learning-data/red-flags-to-watch-out-for-in-data-analyst-job-interviews-66addea5d3d2)
-
+[red flag for data analyst interview](https://medium.com/learning-data/red-flags-to-watch-out-for-in-data-analyst-job-interviews-66addea5d3d2)
 
 [What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
 with some great advices as conclusion.
@@ -285,11 +293,11 @@ productivity:
 
 ## Tools 
 
-Presentations : https://speakerdeck.com
+Presentations: https://speakerdeck.com
 
-Auto-complete short cut : https://espanso.org/
+Auto-complete shortcut : https://espanso.org/
 
-rectangle (for macos) 
+rectangle (for macos)
 
 [zsh autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 
@@ -310,6 +318,7 @@ rectangle (for macos)
 [clipy](https://github.com/Clipy/Clipy)
 
 ## Sports
+
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
 
@@ -330,8 +339,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 - [Geolocating Sydney’s weirdest property](https://www.deanmarchiori.com/posts/2023-09-17-geolocating/)
 
 
-## Other
-[speakerdeck]https://speakerdeck.com/ndemoor/what-is-docker?slide=6
+## Others
 
 [How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
 
@@ -339,18 +347,17 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [Learn chess (fr)](https://www.apprendre-les-echecs-24h.com/apprendre-a-jouer-aux-echecs/debuter-aux-echecs/)
 
-[alternative open source front end](https://github.com/mendel5/alternative-front-ends#shazam)
+[alternative open source front end](https://github.com/mendel5/alternative-front-ends)
 
 [datajockey](https://github.com/GeorgeMcIntire/DataJockey#readme)
 
 [The Best Crispy Roast Potatoes Ever Recipe](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
 
-
 [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate
 
-## thread twitter
+## thread X
 
-wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
+Wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
 - Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
 
 ## Books (to read)
