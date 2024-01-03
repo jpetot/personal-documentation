@@ -32,13 +32,12 @@
   - [thread X](#thread-x)
   - [Books (to read)](#books-to-read)
 
-
-
 ## Resources
 
 - [Data science newsletter](https://dataelixir.com/)
 - [Data Engineering Blog of Simon Späti](https://www.ssp.sh/entry/)
 - [Survey of best data science podcast](https://www.coursera.org/articles/data-science-podcasts)
+- [Document Your Python Code and Projects With ChatGPT](https://realpython.com/document-python-code-with-chatgpt/)
 
 ## Typing practice
 
@@ -118,7 +117,8 @@ HN: https://news.ycombinator.com/item?id=35378521
 
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-- Create custom function with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
+- Create custom functions with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
+
 - [nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
 Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
 - python-[asterisks](https://bas.codes/posts/python-asterisks) 
@@ -275,17 +275,19 @@ structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure
 [red flag for data analyst interview](https://medium.com/learning-data/red-flags-to-watch-out-for-in-data-analyst-job-interviews-66addea5d3d2)
 
 [What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
-with some great advices as conclusion.
+with some great advice as a conclusion.
 
 [Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
 
 (FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
-- [how to make great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
+- [how to make a great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
 - [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+- [What stage startup offers the best risk-reward tradeoff?](https://www.joinprospect.com/blog/which-stage-startup)
+- [Should you leave the startup you work at?](https://www.joinprospect.com/blog/when-to-leave) or should you join the start-up you get an offer
 
-
+  
 ### Hiring & Onboarding 
 
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
