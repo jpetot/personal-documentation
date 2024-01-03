@@ -14,7 +14,7 @@
     - [Python productivity](#python-productivity)
     - [Documentation](#documentation)
     - [Dashboard](#dashboard)
-    - [Others](#others)
+    - [Others python things](#others-python-things)
     - [Security](#security)
   - [Learning Rust](#learning-rust)
   - [R resources](#r-resources)
@@ -28,7 +28,7 @@
   - [Tools](#tools)
   - [Sports](#sports)
   - [Cool and funny project](#cool-and-funny-project)
-  - [Others](#others-1)
+  - [Others](#others)
   - [thread X](#thread-x)
   - [Books (to read)](#books-to-read)
 
@@ -113,21 +113,20 @@ HN: https://news.ycombinator.com/item?id=35378521
 
 - https://github.com/mckinsey/vizro#readme
 
-### Others
+### Others python things
 
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
 - Create custom functions with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
-
-- [nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
+- [Nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
 Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
 - python-[asterisks](https://bas.codes/posts/python-asterisks) 
 - awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 
-### Security 
+### Security
 
--[How to evaluate a python package](https://realpython.com/python-package-quality/#conclusion)
+-[How to evaluate a Python package](https://realpython.com/python-package-quality/#conclusion)
 
 ## Learning Rust
 
@@ -248,49 +247,36 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 ### development Methodologies
 
-- [Shape up](https://ericmjl.github.io/blog/2023/10/5/shape-up-and-data-science-a-match-closer-to-agile-than-you-think/): Shape Up and Data Science: A Match Closer to Agile Than You Think
+- [Shape Up](https://ericmjl.github.io/blog/2023/10/5/shape-up-and-data-science-a-match-closer-to-agile-than-you-think/): Shape Up and Data Science: A Match Closer to Agile Than You Think
 
 
 ## Career article 
 
-How to waste your career, one comfortable year at a time
-
-- https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable?s=r
-
-[How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
+- [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable?s=r )
+- [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
 - Why [Full stack data scientist is better than specific](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/?utm_source=substack&utm_medium=email)
-
-For New Data Scientists, Domain Knowledge Is Sometimes More Important than Technical [Skills](https://towardsdatascience.com/for-new-data-scientists-domain-knowledge-is-sometimes-more-important-than-technical-skills-90e103a8c4da)
-
-reversed [interview](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md) 
-
-how to make your [resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) 
-
-structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) 
-
-[makers vs managers](http://paulgraham.com/makersschedule.html)
-
-[the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
-
-[red flag for data analyst interview](https://medium.com/learning-data/red-flags-to-watch-out-for-in-data-analyst-job-interviews-66addea5d3d2)
-
-[What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
+- For New Data Scientists, Domain Knowledge Is Sometimes More Important than Technical [Skills](https://towardsdatascience.com/for-new-data-scientists-domain-knowledge-is-sometimes-more-important-than-technical-skills-90e103a8c4da)
+- reversed [interview](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md) 
+- how to make your [resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) 
+- structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) 
+- [makers vs managers](http://paulgraham.com/makersschedule.html)
+- [red flag for data analyst interview](https://medium.com/learning-data/red-flags-to-watch-out-for-in-data-analyst-job-interviews-66addea5d3d2)
+- [What Comes After Senior-Level Capabilities And How Do You Get There?](https://vinvashishta.substack.com/p/what-comes-after-senior-level-capabilities) 
 with some great advice as a conclusion.
-
-[Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
-
-(FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
+- [Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
+- (FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
 - [how to make a great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
 - [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 - [What stage startup offers the best risk-reward tradeoff?](https://www.joinprospect.com/blog/which-stage-startup)
 - [Should you leave the startup you work at?](https://www.joinprospect.com/blog/when-to-leave) or should you join the start-up you get an offer
-
+- [Habits of great software engineers](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
   
 ### Hiring & Onboarding 
 
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
+- [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
 
 ## Tools 
@@ -324,7 +310,7 @@ rectangle (for macos)
 A greate guide of different resources in sport analytics (with books, blog and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
 
-specifically : 
+specifically:
 - https://github.com/devinpleuler/analytics-handbook 
 - https://github.com/eddwebster/football_analytics 
 
@@ -332,7 +318,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [Soccer analysis in 2022](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html)
 
-[py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling and more.
+[py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes Python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling and more.
 
 ## Cool and funny project 
 
@@ -358,8 +344,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate
 
 ## thread X
-
-Wonderfull thread on twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
+Wonderful thread on Twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
 - Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
 
 ## Books (to read)
