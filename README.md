@@ -52,11 +52,12 @@
 - [the illustrated machine-learning website](https://illustrated-machine-learning.github.io/index.html)
 - [VAE and AE](https://avandekleut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
-- [good neural networks vizualisation in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
-- [More Design tatterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
+- [good neural network visualization in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
+- [More Design patterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
 - [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
+- [Friend don't let friend make bad visualization](https://github.com/cxli233/FriendsDontLetFriends#readme)
 
-### Efficient similarity search 
+### Efficient similarity search
 
 faiss: https://github.com/facebookresearch/faiss
 faiss manual https://www.pinecone.io/learn/faiss/
@@ -64,7 +65,7 @@ faiss manual https://www.pinecone.io/learn/faiss/
 hnswlib a faiss alternative https://github.com/nmslib/hnswlib
 HN: https://news.ycombinator.com/item?id=35378521
 
-### Profiling 
+### Profiling
 
 [Python speed](https://pythonspeed.com/)
 
@@ -78,26 +79,25 @@ HN: https://news.ycombinator.com/item?id=35378521
 
 - Using pytest as a [beginner](https://testdriven.io/blog/pytest-for-beginners/) 
 - [Test like a Data scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
+- [Writing tests for external API calls](https://www.cosmicpython.com/blog/2020-01-25-testing_external_api_calls.html)
   
-### Decorators 
+### Decorators
 
-- 5 decorators that may useful specifically for[ Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
+- 5 decorators that may useful specifically for [Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
    - @parallel
    - @production
    - @deployable
    - @redirect (stdout)
    - @stacktrace / @traceclass
   
-- Useful Python decorators for data scientists ; [discussion](https://news.ycombinator.com/item?id=31476521) 
+- Useful Python decorators for data scientists; [discussion](https://news.ycombinator.com/item?id=31476521) 
 
 ### Python environment manager 
 
 - [Hatch](https://andrich.me/2023/08/switching-to-hatch/)
 - Poetry 
 - Python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/)
-- [When should you upgrade to Python 3.12 (and other versions)?](https://pythonspeed.com/articles/upgrade-python-3.12/) 
-	it is also a nice article to understand why you need to upgrade you package version.
-
+- [When should you upgrade to Python 3.12 (and other versions)?](https://pythonspeed.com/articles/upgrade-python-3.12/) It is also a nice article to understand why you need to upgrade your python and packages version.
 
 ### Python productivity
 
@@ -108,13 +108,14 @@ HN: https://news.ycombinator.com/item?id=35378521
 
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
+- [How documentation works, and how to make it work for your project PyCon 2017](https://www.youtube.com/watch?v=azf6yzuJt54)
 
 ### Dashboard
 
 - https://github.com/mckinsey/vizro#readme
 
 ### Others python things
-
+ode
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
 - Create custom functions with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
@@ -248,9 +249,10 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 ### development Methodologies
 
 - [Shape Up](https://ericmjl.github.io/blog/2023/10/5/shape-up-and-data-science-a-match-closer-to-agile-than-you-think/): Shape Up and Data Science: A Match Closer to Agile Than You Think
+- [the radiating programmer](https://dev.37signals.com/the-radiating-programmer/)
 
 
-## Career article 
+## Career article
 
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable?s=r )
 - [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
@@ -272,18 +274,18 @@ productivity:
 - [What stage startup offers the best risk-reward tradeoff?](https://www.joinprospect.com/blog/which-stage-startup)
 - [Should you leave the startup you work at?](https://www.joinprospect.com/blog/when-to-leave) or should you join the start-up you get an offer
 - [Habits of great software engineers](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
+- [10 Truths They Won’t Tell You About a Software Job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
   
 ### Hiring & Onboarding 
 
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
 - [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 
-
-## Tools 
+## Tools
 
 Presentations: https://speakerdeck.com
 
-Auto-complete shortcut : https://espanso.org/
+Auto-complete shortcut: https://espanso.org/
 
 rectangle (for macos)
 
@@ -304,6 +306,10 @@ rectangle (for macos)
 [streamlit](https://streamlit.io/)
 
 [clipy](https://github.com/Clipy/Clipy)
+
+[obsidian](https://obsidian.md/)
+
+[notion](https://www.notion.so)
 
 ## Sports
 

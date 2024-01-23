@@ -76,3 +76,8 @@ export AVATAR_PASSWORD="password_integration"
 
 # export to avoid a OS bug
 export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
+
+
+# for gcp 
+source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
+
