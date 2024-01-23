@@ -50,12 +50,13 @@
 ### Data Science
 
 - [the illustrated machine-learning website](https://illustrated-machine-learning.github.io/index.html)
-- [VAE and AE](https://avandekleut.github.io/vae/)
+- [VAE and AE](https://avandekl$$eut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [good neural network visualization in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
 - [More Design patterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
 - [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 - [Friend don't let friend make bad visualization](https://github.com/cxli233/FriendsDontLetFriends#readme)
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained#readme)
 
 ### Efficient similarity search
 
@@ -80,6 +81,7 @@ HN: https://news.ycombinator.com/item?id=35378521
 - Using pytest as a [beginner](https://testdriven.io/blog/pytest-for-beginners/) 
 - [Test like a Data scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 - [Writing tests for external API calls](https://www.cosmicpython.com/blog/2020-01-25-testing_external_api_calls.html)
+- [Enough pytest to be Dangerous, 10 Things I Learned Writing Tests](https://pybit.es/articles/pytest-coding-100-tests/)
   
 ### Decorators
 
