@@ -277,6 +277,7 @@ productivity:
 - [Should you leave the startup you work at?](https://www.joinprospect.com/blog/when-to-leave) or should you join the start-up you get an offer
 - [Habits of great software engineers](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
 - [10 Truths They Won’t Tell You About a Software Job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
+- [Elevating Team Performance: Feedback Strategies for Data Science Leaders](https://ericmjl.github.io/blog/2023/12/11/elevating-team-performance-feedback-strategies-for-data-science-leaders/)
   
 ### Hiring & Onboarding 
 
@@ -337,6 +338,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 ## Others
 
+
 [How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
 
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
@@ -350,6 +352,8 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 [The Best Crispy Roast Potatoes Ever Recipe](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
 
 [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate
+
+[After-Hours Work and Decreased Productivity](https://slack.com/intl/fr-fr/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 
 ## thread X
 Wonderful thread on Twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
