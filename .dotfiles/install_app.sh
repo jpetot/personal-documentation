@@ -1,6 +1,17 @@
 brew install --cask unnaturalscrollwheels
 brew install bluesnooze
 brew install tldr
+brew install obsidian
+brew install spotify 
+brew install iterm2 
+brew install visual-studio-code
+brew install mozilla-firefox
+brew install todoist
+brew install notion
+brew install espanso 
+brew install docker 
+brew install rectangle 
+
 
 
 echo "This script is gonna change some configurations of the mac - that's why it needs sudo."

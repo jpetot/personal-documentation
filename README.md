@@ -271,6 +271,7 @@ with some great advice as a conclusion.
 - (FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
+- [The commitment inventory](https://todoist.com/fr/productivity-methods/commitment-inventory)
 - [how to make a great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
 - [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 - [What stage startup offers the best risk-reward tradeoff?](https://www.joinprospect.com/blog/which-stage-startup)

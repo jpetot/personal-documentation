@@ -178,7 +178,7 @@
         "command": "workbench.action.debug.selectandstart"
     },
     {
-        "key": "ctrl+shift+down",
+        "key": "ctrl+shift+backspace",
         "command": "workbench.action.toggleMultiCursorModifier"
     },
     {
@@ -190,5 +190,9 @@
         "key": "tab",
         "command": "-editor.action.inlineSuggest.commit",
         "when": "inlineSuggestionHasIndentationLessThanTabSize && inlineSuggestionVisible && !editorHoverFocused && !editorTabMovesFocus && !suggestWidgetVisible"
+    },
+    {
+        "key": "shift+cmd+r",
+        "command": "pylance.extractMethodWithRename"
     }
 ]
