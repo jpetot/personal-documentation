@@ -82,6 +82,7 @@ HN: https://news.ycombinator.com/item?id=35378521
 - [Test like a Data scientist](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 - [Writing tests for external API calls](https://www.cosmicpython.com/blog/2020-01-25-testing_external_api_calls.html)
 - [Enough pytest to be Dangerous, 10 Things I Learned Writing Tests](https://pybit.es/articles/pytest-coding-100-tests/)
+- [How to run integration tests in parallel with GH actions](https://guicommits.com/parallelize-pytest-tests-github-actions/)
   
 ### Decorators
 
