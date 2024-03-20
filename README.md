@@ -5,15 +5,16 @@
   - [Resources](#resources)
   - [Typing practice](#typing-practice)
   - [Python or code docs](#python-or-code-docs)
+    - [Development](#development)
     - [Data Science](#data-science)
-    - [Efficient similarity search](#efficient-similarity-search)
+    - [Efficient similarity search (knn)](#efficient-similarity-search-knn)
     - [Profiling](#profiling)
     - [Testing](#testing)
     - [Decorators](#decorators)
-    - [Python environment manager](#python-environment-manager)
+    - [Python packaging \& environment manager](#python-packaging--environment-manager)
     - [Python productivity](#python-productivity)
     - [Documentation](#documentation)
-    - [Dashboard](#dashboard)
+    - [Dashboard \& Visualization](#dashboard--visualization)
     - [Others python things](#others-python-things)
     - [Security](#security)
   - [Learning Rust](#learning-rust)
@@ -47,6 +48,10 @@
 
 ## Python or code docs
 
+### Development
+
+- [Duck typing in Python](https://realpython.com/duck-typing-python/#using-protocols-and-abcs))
+
 ### Data Science
 
 - [the illustrated machine-learning website](https://illustrated-machine-learning.github.io/index.html)
@@ -58,13 +63,11 @@
 - [Friend don't let friend make bad visualization](https://github.com/cxli233/FriendsDontLetFriends#readme)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained#readme)
 
-### Efficient similarity search
+### Efficient similarity search (knn)
 
-faiss: https://github.com/facebookresearch/faiss
-faiss manual https://www.pinecone.io/learn/faiss/
-
-hnswlib a faiss alternative https://github.com/nmslib/hnswlib
-HN: https://news.ycombinator.com/item?id=35378521
+-[Faiss](https://github.com/facebookresearch/faiss): efficient similarity search and clustering of dense vectors. Faiss [manual](https://www.pinecone.io/learn/faiss/)
+- HackerNews [thread](https://news.ycombinator.com/item?id=35378521)  about Faiss
+- [hnswlib](https://github.com/nmslib/hnswlib): a Faiss alternative
 
 ### Profiling
 
@@ -86,21 +89,27 @@ HN: https://news.ycombinator.com/item?id=35378521
   
 ### Decorators
 
-- 5 decorators that may useful specifically for [Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
+- 5 decorators that may be useful specifically for [Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
    - @parallel
    - @production
    - @deployable
    - @redirect (stdout)
    - @stacktrace / @traceclass
-  
-- Useful Python decorators for data scientists; [discussion](https://news.ycombinator.com/item?id=31476521) 
+- Useful Python decorators for data scientists: [discussion](https://news.ycombinator.com/item?id=31476521) 
 
-### Python environment manager 
+### Python packaging & environment manager
 
 - [Hatch](https://andrich.me/2023/08/switching-to-hatch/)
-- Poetry 
+- Poetry
 - Python package manager [comparison](https://lincolnloop.github.io/python-package-manager-shootout/)
-- [When should you upgrade to Python 3.12 (and other versions)?](https://pythonspeed.com/articles/upgrade-python-3.12/) It is also a nice article to understand why you need to upgrade your python and packages version.
+- [When should you upgrade to Python 3.12 (and other versions)?](https://pythonspeed.com/articles/upgrade-python-3.12/) It is also a nice article to understand why you need to upgrade your Python and packages version.
+- [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) 
+  - poetry
+  - automate test using tox
+  - Github action 
+  - use and automate the release on Pypi
+  - improve code quality with code coverage (with code coverage report)
+
 
 ### Python productivity
 
@@ -112,20 +121,21 @@ HN: https://news.ycombinator.com/item?id=35378521
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 - [How documentation works, and how to make it work for your project PyCon 2017](https://www.youtube.com/watch?v=azf6yzuJt54)
+- [You should read the doc](https://pycoders.com/link/10854/dwyqrejh5r)
 
-### Dashboard
+### Dashboard & Visualization
 
-- https://github.com/mckinsey/vizro#readme
+- [Vizro](https://github.com/mckinsey/vizro#readme): Python data visualization dashboard application.
+- Create custom functions with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
 
 ### Others python things
-ode
+
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-- Create custom functions with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
-- [Nannyml](https://github.com/NannyML/nannyml/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387#readme)
-Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
-- python-[asterisks](https://bas.codes/posts/python-asterisks) 
-- awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
+
+- [Nannyml](https://github.com/NannyML/nannyml/#readme): Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
+- Python [asterisks](https://bas.codes/posts/python-asterisks) 
+- Awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 
 ### Security
@@ -145,8 +155,6 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - resproducibke environments
 - version control
 
-  
-
 ## Git and Github
 
 - [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): One (not easy) distinction you must understand when using git
@@ -156,13 +164,11 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [why do you need a monorepo](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/#head-and-heads)
 
-## Science & Engineering 
+## Science & Engineering
 
 - How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381)
 - "The best way to understand something is to break it. The second best way is to rewrite it from scratch without using any external libraries". [Vicki Boykis](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/?utm_source=substack&utm_medium=email)
-
-- A nice to explore datascience [interview book](https://dipranjan.github.io/dsinterviewqns/intro.html)
-- [You should read the doc](https://pycoders.com/link/10854/dwyqrejh5r)
+- A nice to explore data science [interview book](https://dipranjan.github.io/dsinterviewqns/intro.html)
 - [4 Skills the Next Generation of Data Scientists Needs to Develop](https://hbr.org/2023/09/4-skills-the-next-generation-of-data-scientists-needs-to-develop)
 	- 1. Problem Spotting: Seeing the real issue
 	- 2. Problem Scoping: Gaining clarity and specificity
@@ -171,35 +177,23 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 - [How-to Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 
-## Professional Programming 
+## Professional Programming
 
-- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers): 
+- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers):
   - Ask For Feedback Early 
   - Be a Rubber Ducky, Find a Rubber Ducky
   - Get End-to-End First
   - Step Away From the Keyboard
   - Automate To Get More Done
   - You Can DRY Off Later
-  - Take Meticulous Notes 
+  - Take Meticulous Notes
   - Plan for Tomorrow, Today, and more ...
-  
 - [Must read article from charlax](https://github.com/charlax/professional-programming#must-read-articles)
-
-- [awesome-data-leadership](https://github.com/ronikobrosly/awesome-data-leadership?utm_campaign=Data_Elixir&utm_source=Data_Elixir_391#readme)
-
-- [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022) 
-  - poetry 
-  - automate test using tox
-  - Github action 
-  - use and automate the release on Pypi
-  - improve code quality with code coverage (with code coverage report)
- 
+- [awesome-data-leadership](https://github.com/ronikobrosly/awesome-data-leadership?utm_campaign=Data_Elixir&utm_source=Data_Elixir_391#readme) 
 - [Want cleaner code? Use the Rule of six](https://davidamos.dev/the-rule-of-six/)
 - [Software skills for a Datascientist](https://ericmjl.github.io/essays-on-data-science/software-skills/)
-
 - [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
 - [logging owasp cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
-
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
@@ -208,7 +202,6 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 ### Computer-programming principle
 
 - [Single-responsibility_principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
-
 - [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 - [CAP theorem](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_CAP)
@@ -234,14 +227,14 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 	- Grant approval when remaining fixes are trivial
 	- Handle stalemates proactively
 
-[How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+- [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 	- Review your own code first 
-	- Write a clear changelist description
+	- Write a clear change list description
 	- Automate the easy stuff
 	- Answer questions with the code itself
 	- Narrowly scope changes
 	- Separate functional and non-functional changes
-	- Break up large changelists
+	- Break up large change lists
 	- Respond graciously to critiques
 	- Be patient when your reviewer is wrong
 	- Communicate your responses explicitly
