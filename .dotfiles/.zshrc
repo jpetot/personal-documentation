@@ -54,11 +54,13 @@ eval "$(starship init zsh)"
 
 
 export GPG_TTY=$(tty)
-export PATH="/Users/julien/Library/Python/3.9/bin:$PATH"
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+# Setup fzf key bindings and auto completion
+eval "$(fzf --zsh)"
+
 alias gl='git lg' # after git pluging
 
+export PATH="/Users/julien/.local/bin:$PATH"
 export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 export PATH="/opt/homebrew/Cellar/postgresql@14/14.6_1.reinstall/bin:$PATH"
 export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
@@ -81,3 +83,13 @@ export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
 # for gcp 
 source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
 
+# asdf
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
+
+# zsh completions (completion in makefile)
+if type brew &>/dev/null; then
+    FPATH=$(brew --prefix)/share/zsh-completions:$FPATH
+
+    autoload -Uz compinit
+    compinit
+  fi

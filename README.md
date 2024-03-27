@@ -274,7 +274,7 @@ productivity:
 - [10 Truths They Won’t Tell You About a Software Job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 - [Elevating Team Performance: Feedback Strategies for Data Science Leaders](https://ericmjl.github.io/blog/2023/12/11/elevating-team-performance-feedback-strategies-for-data-science-leaders/)
   
-### Hiring & Onboarding 
+### Hiring & Onboarding
 
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
 - [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
@@ -308,6 +308,10 @@ rectangle (for macos)
 [obsidian](https://obsidian.md/)
 
 [notion](https://www.notion.so)
+
+[scribe](https://scribe.rip/): alternative to medium
+
+[freedium](https://freedium.cfd/): another alternative to medium
 
 ## Sports
 
@@ -349,6 +353,8 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate
 
 [After-Hours Work and Decreased Productivity](https://slack.com/intl/fr-fr/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
+
+[My favorite Math joke](https://arxiv.org/abs/2403.01010): For many years, I have been collecting math jokes and posting them on my website. I have more than 400 jokes there. In this paper, which is an extended version of my talk at the G4G15, I would like to present 66 of them. 
 
 ## thread X
 Wonderful thread on Twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
