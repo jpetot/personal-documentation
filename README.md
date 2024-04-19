@@ -66,7 +66,8 @@
       This is to say that data scientists should strive to learn software development and work fully embedded in the delivery team responsible for delivery of production software.
       [...]
       Neither needs to become fully skilled in the other field but they should at least be competent in its basics.
-
+- [ How to grow software development skills in a data science team ](https://ericmjl.github.io/blog/2024/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
+  
 ### Efficient similarity search (knn)
 
 -[Faiss](https://github.com/facebookresearch/faiss): efficient similarity search and clustering of dense vectors. Faiss [manual](https://www.pinecone.io/learn/faiss/)
