@@ -62,6 +62,10 @@
 - [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 - [Friend don't let friend make bad visualization](https://github.com/cxli233/FriendsDontLetFriends#readme)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained#readme)
+- [Don’t put data science notebooks into production](https://martinfowler.com/articles/productize-data-sci-notebooks.html)
+      This is to say that data scientists should strive to learn software development and work fully embedded in the delivery team responsible for delivery of production software.
+      [...]
+      Neither needs to become fully skilled in the other field but they should at least be competent in its basics.
 
 ### Efficient similarity search (knn)
 
@@ -122,6 +126,7 @@
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 - [How documentation works, and how to make it work for your project PyCon 2017](https://www.youtube.com/watch?v=azf6yzuJt54)
 - [You should read the doc](https://pycoders.com/link/10854/dwyqrejh5r)
+- [Two open source projects with great documentation](https://johnjago.com/great-docs/)
 
 ### Dashboard & Visualization
 
@@ -263,6 +268,8 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 with some great advice as a conclusion.
 - [Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
 - (FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
+- [The curse of the senior engineerw<
+- ](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
 productivity: 
 - Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
 - [The commitment inventory](https://todoist.com/fr/productivity-methods/commitment-inventory)

@@ -67,7 +67,12 @@ matches:
   # gif 
   - trigger: ":charlax-party"
     image_path: "/Users/julien/personnal-documentation/img/charlax-party.gif"
-
+  
+  - trigger: ":/g"
+    replace: "/giphy "
+  
+  - trigger: ":ghello"
+    replace: "https://media0.giphy.com/media/e9O0phrOr6nx6Szw5c/giphy-downsized.gif?cid=6104955e1a8bls2f9uacj0mem0t53xxe3m0efdzk95e0xlm9&ep=v1_gifs_translate&rid=giphy-downsized.gif&ct=g" 
 
 # link
   - trigger: :mdi
