@@ -22,7 +22,7 @@ alias platform='cd ~/projets/avatar/platform'
 alias api='cd ~/projets/avatar/platform/api'
 alias dotfiles='cd ~/personnal-documentation/.dotfiles'
 alias saiph='cd ~/projets/saiph'
-alias apython='cd ~/projets/avatar-python'
+alias apython='cd ~/projets/avatar/client/build/avatar-python'
 alias paper='cd ~/projets/paper/avatar-paper'
 alias julien-analysis='cd ~/projets/julien-analysis'
 alias c="code ."
@@ -35,6 +35,7 @@ alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
 alias m='make'
 alias prp='DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest'
+alias analyses='~/projets/analyses'
 
 # function 
 function prpk() {DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest -k "$1";}

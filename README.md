@@ -51,6 +51,7 @@
 ### Development
 
 - [Duck typing in Python](https://realpython.com/duck-typing-python/#using-protocols-and-abcs))
+- [What clean code means in Python](https://testdriven.io/blog/clean-code-python/?v=1)
 
 ### Data Science
 
@@ -73,6 +74,7 @@
 -[Faiss](https://github.com/facebookresearch/faiss): efficient similarity search and clustering of dense vectors. Faiss [manual](https://www.pinecone.io/learn/faiss/)
 - HackerNews [thread](https://news.ycombinator.com/item?id=35378521)  about Faiss
 - [hnswlib](https://github.com/nmslib/hnswlib): a Faiss alternative
+- [Haystack Embedded](https://github.com/carsonpo/haystack-embedded): Haystack Embedded is ~2.5-3x faster than normal Haystack (on disk), and 25-35x faster than FAISS (in memory).
 
 ### Profiling
 
@@ -281,6 +283,7 @@ productivity:
 - [Habits of great software engineers](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
 - [10 Truths They Won’t Tell You About a Software Job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 - [Elevating Team Performance: Feedback Strategies for Data Science Leaders](https://ericmjl.github.io/blog/2023/12/11/elevating-team-performance-feedback-strategies-for-data-science-leaders/)
+- [stop acting like you are famous](https://ajkprojects.com/stopactinglikeyourefamous)
   
 ### Hiring & Onboarding
 
