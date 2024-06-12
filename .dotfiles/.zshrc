@@ -14,6 +14,8 @@ alias gb='git branch | tee'
 alias lg='git lg'
 alias ghpc='gh pr create'
 alias gpl='git pull'
+alias dps='docker ps'
+alias bubu='brew update && brew upgrade'
 
 alias projets='cd ~/projets'
 alias avatar='cd ~/projets/avatar'
@@ -36,7 +38,7 @@ alias make='gmake'
 alias m='make'
 alias prp='DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest'
 alias analyses='~/projets/analyses'
-
+alias infra="cd /Users/julien/projets/avatar/infra"
 # function 
 function prpk() {DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest -k "$1";}
 
@@ -69,6 +71,7 @@ export LDFLAGS="-L/opt/homebrew/opt/openssl@3/lib"
 export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include"
 # export diff so fancy for a better git diff 
 export  PATH="/Users/julien/projets/diff-so-fancy/diff-so-fancy:$PATH"
+export PATH="$HOME/.local/bin/poetry:$PATH"
 
 ## export env variables 
 export AVATAR_BASE_URL="http://localhost:8000"

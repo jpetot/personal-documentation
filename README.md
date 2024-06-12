@@ -7,7 +7,8 @@
   - [Python or code docs](#python-or-code-docs)
     - [Development](#development)
     - [Data Science](#data-science)
-    - [Efficient similarity search (knn)](#efficient-similarity-search-knn)
+    - [Efficient similarity search (KNN)](#efficient-similarity-search-knn)
+    - [LLM](#llm)
     - [Profiling](#profiling)
     - [Testing](#testing)
     - [Decorators](#decorators)
@@ -30,7 +31,7 @@
   - [Sports](#sports)
   - [Cool and funny project](#cool-and-funny-project)
   - [Others](#others)
-  - [thread X](#thread-x)
+  - [Thread X](#thread-x)
   - [Books (to read)](#books-to-read)
 
 ## Resources
@@ -45,7 +46,6 @@
 - https://www.keybr.com/
 - https://www.keyhero.com/test-dactylographie/test-gratuit/?lang=0
 
-
 ## Python or code docs
 
 ### Development
@@ -59,7 +59,7 @@
 - [VAE and AE](https://avandekl$$eut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [good neural network visualization in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
-- [More Design patterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
+- [More Design patterns for Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
 - [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 - [Friend don't let friend make bad visualization](https://github.com/cxli233/FriendsDontLetFriends#readme)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained#readme)
@@ -69,12 +69,16 @@
       Neither needs to become fully skilled in the other field but they should at least be competent in its basics.
 - [ How to grow software development skills in a data science team ](https://ericmjl.github.io/blog/2024/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
   
-### Efficient similarity search (knn)
+### Efficient similarity search (KNN)
 
 -[Faiss](https://github.com/facebookresearch/faiss): efficient similarity search and clustering of dense vectors. Faiss [manual](https://www.pinecone.io/learn/faiss/)
-- HackerNews [thread](https://news.ycombinator.com/item?id=35378521)  about Faiss
+- HackerNews [thread](https://news.ycombinator.com/item?id=35378521) about Faiss
 - [hnswlib](https://github.com/nmslib/hnswlib): a Faiss alternative
 - [Haystack Embedded](https://github.com/carsonpo/haystack-embedded): Haystack Embedded is ~2.5-3x faster than normal Haystack (on disk), and 25-35x faster than FAISS (in memory).
+
+### LLM
+
+- [The Definitive Guide to Synthetic Data Generation Using LLMs](https://www.confident-ai.com/blog/the-definitive-guide-to-synthetic-data-generation-using-llms)
 
 ### Profiling
 
@@ -129,7 +133,7 @@
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 - [How documentation works, and how to make it work for your project PyCon 2017](https://www.youtube.com/watch?v=azf6yzuJt54)
 - [You should read the doc](https://pycoders.com/link/10854/dwyqrejh5r)
-- [Two open source projects with great documentation](https://johnjago.com/great-docs/)
+- [Two open-source projects with great documentation](https://johnjago.com/great-docs/)
 
 ### Dashboard & Visualization
 
@@ -255,7 +259,6 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Shape Up](https://ericmjl.github.io/blog/2023/10/5/shape-up-and-data-science-a-match-closer-to-agile-than-you-think/): Shape Up and Data Science: A Match Closer to Agile Than You Think
 - [the radiating programmer](https://dev.37signals.com/the-radiating-programmer/)
 
-
 ## Career article
 
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable?s=r )
@@ -289,6 +292,7 @@ productivity:
 
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
 - [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
+- [Business questions to ask before taking a startup data role](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)
 
 ## Tools
 
@@ -326,7 +330,7 @@ rectangle (for macos)
 
 ## Sports
 
-A greate guide of different resources in sport analytics (with books, blog and github pages)
+A greate guide of different resources in sport analytics (with books, blog, and github pages)
 https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=507593318
 
 specifically:
@@ -337,9 +341,9 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [Soccer analysis in 2022](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html)
 
-[py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes Python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling and more.
+[py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes Python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling, and more.
 
-## Cool and funny project 
+## Cool and funny project
 
 - [24 hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
 - [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/)
@@ -349,29 +353,22 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 ## Others
 
 
-[How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
+- How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
+- [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
+- [alternative open source front end](https://github.com/mendel5/alternative-front-ends)
+- [Datajockey](https://github.com/GeorgeMcIntire/DataJockey#readme): "Data Jockey" is a comprehensive and ongoing project that incorporates a wide variety of data tools and methodologies.[...] The goal of this project is to see if I can meaningful impact my DJing career using my data science abilities.
+- [The Best Crispy Roast Potatoes Ever Recipe](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
+- [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate.
+- [After-hours work and Decreased Productivity](https://slack.com/intl/fr-fr/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
+- [My favorite Math joke](https://arxiv.org/abs/2403.01010): For many years, I have been collecting math jokes and posting them on my website. I have more than 400 jokes there. In this paper, which is an extended version of my talk at the G4G15, I would like to present 66 of them.
+- [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology): how developmental biology might contain the secrets to life, intelligence, and immortality
 
-[The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
+## Thread X
 
-[Learn chess (fr)](https://www.apprendre-les-echecs-24h.com/apprendre-a-jouer-aux-echecs/debuter-aux-echecs/)
-
-[alternative open source front end](https://github.com/mendel5/alternative-front-ends)
-
-[datajockey](https://github.com/GeorgeMcIntire/DataJockey#readme)
-
-[The Best Crispy Roast Potatoes Ever Recipe](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
-
-[Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/) A showcase of data-driven Little Pictures of climate
-
-[After-Hours Work and Decreased Productivity](https://slack.com/intl/fr-fr/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
-
-[My favorite Math joke](https://arxiv.org/abs/2403.01010): For many years, I have been collecting math jokes and posting them on my website. I have more than 400 jokes there. In this paper, which is an extended version of my talk at the G4G15, I would like to present 66 of them. 
-
-## thread X
-Wonderful thread on Twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) : 
-- Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
+- Wonderful thread on Twitter. [Academia versus Big Tech](https://twitter.com/VoltarCH/status/1554075352359657474) :
+  - Money can buy happiness, but pursuing money for the sake of money will not bring joy. If all your existential needs are covered, there are better ways to gain happiness than chasing a better salary.
 
 ## Books (to read)
 
-[Discover your next favorite book Powered by AI](https://www.librarian-ai.com)
-[The Care and Feeding of Data Scientists](https://www.oreilly.com/library/view/the-care-and/9781492053972/)
+- [Discover your next favorite book Powered by AI](https://www.librarian-ai.com)
+- [The Care and Feeding of Data Scientists](https://www.oreilly.com/library/view/the-care-and/9781492053972/)
