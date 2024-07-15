@@ -72,9 +72,13 @@
 ### Efficient similarity search (KNN)
 
 -[Faiss](https://github.com/facebookresearch/faiss): efficient similarity search and clustering of dense vectors. Faiss [manual](https://www.pinecone.io/learn/faiss/)
+- [Unofficial](https://www.pinecone.io/learn/faiss/) manual of faiss.
 - HackerNews [thread](https://news.ycombinator.com/item?id=35378521) about Faiss
 - [hnswlib](https://github.com/nmslib/hnswlib): a Faiss alternative
 - [Haystack Embedded](https://github.com/carsonpo/haystack-embedded): Haystack Embedded is ~2.5-3x faster than normal Haystack (on disk), and 25-35x faster than FAISS (in memory).
+- [Annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors Oh Yeah from spotify.
+- [u search](https://github.com/unum-cloud/usearch?tab=readme-ov-file)
+
 
 ### LLM
 
@@ -120,6 +124,7 @@
   - Github action 
   - use and automate the release on Pypi
   - improve code quality with code coverage (with code coverage report)
+- [Modern (2024) Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 
 
 ### Python productivity
@@ -293,6 +298,7 @@ productivity:
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
 - [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 - [Business questions to ask before taking a startup data role](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)
+- [What are your personal red flags when you're interviewing at a company?](https://news.ycombinator.com/item?id=40649536)
 
 ## Tools
 
