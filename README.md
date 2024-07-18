@@ -67,7 +67,8 @@
       This is to say that data scientists should strive to learn software development and work fully embedded in the delivery team responsible for delivery of production software.
       [...]
       Neither needs to become fully skilled in the other field but they should at least be competent in its basics.
-- [ How to grow software development skills in a data science team ](https://ericmjl.github.io/blog/2024/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
+- [ How to grow software development skills in a data science team ](https://ericmjl.github.io/blog/2025/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
+- [When to write test in you data science code](https://ericmjl.github.io/blog/2023/10/10/when-to-write-tests-for-your-data-science-code/)
   
 ### Efficient similarity search (KNN)
 
@@ -299,6 +300,7 @@ productivity:
 - [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 - [Business questions to ask before taking a startup data role](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)
 - [What are your personal red flags when you're interviewing at a company?](https://news.ycombinator.com/item?id=40649536)
+- [Hire for communication skills, not conversational skills](https://ericmjl.github.io/blog/2024/6/26/hire-for-communication-skills-not-conversational-skills/)
 
 ## Tools
 
