@@ -39,6 +39,7 @@ alias m='make'
 alias prp='DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest'
 alias analyses='~/projets/analyses'
 alias infra="cd /Users/julien/projets/avatar/infra"
+alias quality="cd /Users/julien/projets/avatar/quality_test"
 # function 
 function prpk() {DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest -k "$1";}
 
@@ -49,6 +50,7 @@ plugins=(
   zsh-autosuggestions
   git
 )
+alias git='LANG=en_GB git'
 
 source $ZSH/oh-my-zsh.sh
 
@@ -93,7 +95,10 @@ source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
 # zsh completions (completion in makefile)
 if type brew &>/dev/null; then
     FPATH=$(brew --prefix)/share/zsh-completions:$FPATH
+    fpath=($HOMEBREW_PREFIX/share/zsh/site-functions $fpath)
 
     autoload -Uz compinit
     compinit
   fi
+
+. "$HOME/.cargo/env"

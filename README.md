@@ -4,7 +4,7 @@
 - [Personal documentation](#personal-documentation)
   - [Resources](#resources)
   - [Typing practice](#typing-practice)
-  - [Python or code docs](#python-or-code-docs)
+  - [Python or computer science documentations](#python-or-computer-science-documentations)
     - [Development](#development)
     - [Data Science](#data-science)
     - [Efficient similarity search (KNN)](#efficient-similarity-search-knn)
@@ -24,6 +24,7 @@
   - [Science \& Engineering](#science--engineering)
   - [Professional Programming](#professional-programming)
     - [Computer-programming principle](#computer-programming-principle)
+    - [Code review](#code-review)
     - [development Methodologies](#development-methodologies)
   - [Career article](#career-article)
     - [Hiring \& Onboarding](#hiring--onboarding)
@@ -46,19 +47,21 @@
 - https://www.keybr.com/
 - https://www.keyhero.com/test-dactylographie/test-gratuit/?lang=0
 
-## Python or code docs
+## Python or computer science documentations
 
 ### Development
 
 - [Duck typing in Python](https://realpython.com/duck-typing-python/#using-protocols-and-abcs))
 - [What clean code means in Python](https://testdriven.io/blog/clean-code-python/?v=1)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
 ### Data Science
 
 - [the illustrated machine-learning website](https://illustrated-machine-learning.github.io/index.html)
 - [VAE and AE](https://avandekl$$eut.github.io/vae/)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
-- [good neural network visualization in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
+- [Good neural network visualization in your browser](https://playground.tensorflow.org/#activation=sigmoid&batchSize=16&dataset=circle&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.03&noise=10&networkShape=5,4,3,3&seed=0.00817&showTestData=false&discretize=false&percTrainData=60&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
 - [More Design patterns for Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_433)
 - [Started pack for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 - [Friend don't let friend make bad visualization](https://github.com/cxli233/FriendsDontLetFriends#readme)
@@ -127,7 +130,6 @@
   - improve code quality with code coverage (with code coverage report)
 - [Modern (2024) Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 
-
 ### Python productivity
 
 - [Ptpython](https://realpython.com/ptpython-shell/)
@@ -148,17 +150,15 @@
 
 ### Others python things
 
-- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [General Python knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-
 - [Nannyml](https://github.com/NannyML/nannyml/#readme): Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
-- Python [asterisks](https://bas.codes/posts/python-asterisks) 
+- Python [asterisks](https://bas.codes/posts/python-asterisks)
 - Awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 
 ### Security
 
--[How to evaluate a Python package](https://realpython.com/python-package-quality/#conclusion)
+- [How to evaluate a Python package](https://realpython.com/python-package-quality/#conclusion)
 
 ## Learning Rust
 
@@ -178,7 +178,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): One (not easy) distinction you must understand when using git
 
 - [ohshitgit](https://ohshitgit.com/): good and bad situation when using git
-- [how to speed up your git](https://www.git-tower.com/blog/git-performance) 
+- [how to speed up your git](https://www.git-tower.com/blog/git-performance)
 - [why do you need a monorepo](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/#head-and-heads)
 
@@ -186,19 +186,18 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 - How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381)
 - "The best way to understand something is to break it. The second best way is to rewrite it from scratch without using any external libraries". [Vicki Boykis](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/?utm_source=substack&utm_medium=email)
-- A nice to explore data science [interview book](https://dipranjan.github.io/dsinterviewqns/intro.html)
+- A nice to explore data science [interview book](https://book.thedatascienceinterviewproject.com/)
 - [4 Skills the Next Generation of Data Scientists Needs to Develop](https://hbr.org/2023/09/4-skills-the-next-generation-of-data-scientists-needs-to-develop)
 	- 1. Problem Spotting: Seeing the real issue
 	- 2. Problem Scoping: Gaining clarity and specificity
 	- 3. Problem Shepherding: Getting updates, gathering feedback
 	- 4. Solution Translating: Speaking in the language of the audience
-
 - [How-to Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 
 ## Professional Programming
 
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers):
-  - Ask For Feedback Early 
+  - Ask For Feedback Early
   - Be a Rubber Ducky, Find a Rubber Ducky
   - Get End-to-End First
   - Step Away From the Keyboard
@@ -226,44 +225,47 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [10 principles for good code](https://www.dein.fr/posts/2015-10-01-10-principles-for-good-code)
 - [duck typing](https://en.wikipedia.org/wiki/Duck_typing)
 
+### Code review
+
 - [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/#start-reviewing-immediately)
-	- Let computers do the boring parts
-	-  Settle style arguments with a style guide
-	- Start reviewing immediately
-	- Start high level and work your way down
-	- Be generous with code examples
-	- Never say “you”
-	- Frame feedback as requests, not commands
-	- Tie notes to principles, not opinion
-   
+  - Let computers do the boring parts
+  - Settle style arguments with a style guide
+  - Start reviewing immediately
+  - Start high level and work your way down
+  - Be generous with code examples
+  - Never say “you”
+  - Frame feedback as requests, not commands
+  - Tie notes to principles, not opinion
+
 - [How to Do Code Reviews Like a Human (Part Two)](https://mtlynch.io/human-code-reviews-2/)
-	- Aim to bring the code up a letter grade or two
-	- Limit feedback on repeated patterns
-	- Respect the scope of the review
-	- Look for opportunities to split up large reviews
-	- Offer sincere praise
-	- Grant approval when remaining fixes are trivial
-	- Handle stalemates proactively
+  - Aim to bring the code up a letter grade or two
+  - Limit feedback on repeated patterns
+  - Respect the scope of the review
+  - Look for opportunities to split up large reviews
+  - Offer sincere praise
+  - Grant approval when remaining fixes are trivial
+  - Handle stalemates proactively
 
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
-	- Review your own code first 
-	- Write a clear change list description
-	- Automate the easy stuff
-	- Answer questions with the code itself
-	- Narrowly scope changes
-	- Separate functional and non-functional changes
-	- Break up large change lists
-	- Respond graciously to critiques
-	- Be patient when your reviewer is wrong
-	- Communicate your responses explicitly
-	- Artfully solicit missing information
-	- Award all ties to your reviewer
-	- Minimize lag between rounds of review
+  - Review your own code first
+  - Write a clear change list description
+  - Automate the easy stuff
+  - Answer questions with the code itself
+  - Narrowly scope changes
+  - Separate functional and non-functional changes
+  - Break up large change lists
+  - Respond graciously to critiques
+  - Be patient when your reviewer is wrong
+  - Communicate your responses explicitly
+  - Artfully solicit missing information
+  - Award all ties to your reviewer
+  - Minimize lag between rounds of review
 
 ### development Methodologies
 
 - [Shape Up](https://ericmjl.github.io/blog/2023/10/5/shape-up-and-data-science-a-match-closer-to-agile-than-you-think/): Shape Up and Data Science: A Match Closer to Agile Than You Think
 - [the radiating programmer](https://dev.37signals.com/the-radiating-programmer/)
+- Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
 
 ## Career article
 
@@ -271,7 +273,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 - [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
 - Why [Full stack data scientist is better than specific](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/?utm_source=substack&utm_medium=email)
 - For New Data Scientists, Domain Knowledge Is Sometimes More Important than Technical [Skills](https://towardsdatascience.com/for-new-data-scientists-domain-knowledge-is-sometimes-more-important-than-technical-skills-90e103a8c4da)
-- reversed [interview](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md) 
+- reversed [interview](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - how to make your [resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) 
 - structure a data [team](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) 
 - [makers vs managers](http://paulgraham.com/makersschedule.html)
@@ -280,10 +282,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 with some great advice as a conclusion.
 - [Define what success means to you](https://www.talent.io/p/gb-articles/define-what-success-means-to-you-in-6-questions?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_1)
 - (FR)[Le besoin tech des entreprises en 2023](https://medium.com/@stanams/le-besoin-tech-des-entreprises-en-2023-b8e78637913)
-- [The curse of the senior engineerw<
-- ](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
-productivity: 
-- Zettelkasten [Method](https://zettelkasten.de/posts/overview/)
+- [The curse of the senior engineer](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
 - [The commitment inventory](https://todoist.com/fr/productivity-methods/commitment-inventory)
 - [how to make a great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
 - [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
@@ -297,7 +296,7 @@ productivity:
 ### Hiring & Onboarding
 
 - [How to quickly (and successfully) onboard engineers](https://github.com/charlax/engineering-management/)
-- [the art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
+- [The art of onboarding](https://locallyoptimistic.com/post/the-art-of-onboarding/)
 - [Business questions to ask before taking a startup data role](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)
 - [What are your personal red flags when you're interviewing at a company?](https://news.ycombinator.com/item?id=40649536)
 - [Hire for communication skills, not conversational skills](https://ericmjl.github.io/blog/2024/6/26/hire-for-communication-skills-not-conversational-skills/)
@@ -356,10 +355,9 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 - [24 hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
 - [Little Pictures Gallery](https://climate.esa.int/en/little-pictures-gallery/)
 - [Geolocating Sydney’s weirdest property](https://www.deanmarchiori.com/posts/2023-09-17-geolocating/)
-
+- [Free Euro 2024 Data](https://statsbomb.com/news/statsbomb-release-free-euro-2024-data/)
 
 ## Others
-
 
 - How to Snowboard](https://www.xfive.co/blog/snowboarding-ultimate-guide/)
 - [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383)
