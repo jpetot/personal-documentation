@@ -29,6 +29,7 @@
   - [Career article](#career-article)
     - [Hiring \& Onboarding](#hiring--onboarding)
   - [Tools](#tools)
+    - [shell tools](#shell-tools)
   - [Sports](#sports)
   - [Cool and funny project](#cool-and-funny-project)
   - [Others](#others)
@@ -72,6 +73,8 @@
       Neither needs to become fully skilled in the other field but they should at least be competent in its basics.
 - [ How to grow software development skills in a data science team ](https://ericmjl.github.io/blog/2025/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
 - [When to write test in you data science code](https://ericmjl.github.io/blog/2023/10/10/when-to-write-tests-for-your-data-science-code/)
+- [A Guide to passing A/B testing interview questions](https://www.reddit.com/r/datascience/comments/1fyrawz/a_guide_to_passing_the_ab_test_interview_question/)
+- [Alternative to cosine similarity](https://tomhazledine.com/cosine-similarity-alternatives/)
   
 ### Efficient similarity search (KNN)
 
@@ -82,7 +85,6 @@
 - [Haystack Embedded](https://github.com/carsonpo/haystack-embedded): Haystack Embedded is ~2.5-3x faster than normal Haystack (on disk), and 25-35x faster than FAISS (in memory).
 - [Annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors Oh Yeah from spotify.
 - [u search](https://github.com/unum-cloud/usearch?tab=readme-ov-file)
-
 
 ### LLM
 
@@ -147,6 +149,7 @@
 
 - [Vizro](https://github.com/mckinsey/vizro#readme): Python data visualization dashboard application.
 - Create custom functions with [matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
+- [First aid for figures: all resources](https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/): Great collection of resources for designing science-related data visualizations. Covers choosing a chart, text, layouts, color, special use cases, and a few extras that are just for fun.
 
 ### Others python things
 
@@ -285,6 +288,7 @@ with some great advice as a conclusion.
 - [The curse of the senior engineer](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
 - [The commitment inventory](https://todoist.com/fr/productivity-methods/commitment-inventory)
 - [how to make a great conference](https://switowski.com/blog/how-to-make-a-great-conference-talk/)  
+- [How I prepare a technical talk](https://mathspp.com/blog/how-i-prepare-a-technical-talk)
 - [the real cost of interruption](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 - [What stage startup offers the best risk-reward tradeoff?](https://www.joinprospect.com/blog/which-stage-startup)
 - [Should you leave the startup you work at?](https://www.joinprospect.com/blog/when-to-leave) or should you join the start-up you get an offer
@@ -311,8 +315,6 @@ rectangle (for macos)
 
 [zsh autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 
-[run gh action locally with act](https://github.com/nektos/act)
-
 [overleaf](https://www.overleaf.com/) - latex online and collaborative
 
 [Karabiner](https://karabiner-elements.pqrs.org/)
@@ -334,6 +336,11 @@ rectangle (for macos)
 [scribe](https://scribe.rip/): alternative to medium
 
 [freedium](https://freedium.cfd/): another alternative to medium
+
+### shell tools
+
+- [autojump](https://github.com/wting/autojump) : autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
+- [run gh action locally with act](https://github.com/nektos/act)
 
 ## Sports
 

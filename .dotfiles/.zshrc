@@ -57,6 +57,7 @@ source $ZSH/oh-my-zsh.sh
 # starship
 eval "$(starship init zsh)"
 
+eval "$(zoxide init zsh)"
 
 export GPG_TTY=$(tty)
 

@@ -11,8 +11,8 @@ brew install notion
 brew install espanso 
 brew install docker 
 brew install rectangle 
-
-
+brew install MonitorControl
+brew install zoxide
 
 echo "This script is gonna change some configurations of the mac - that's why it needs sudo."
 echo "Kill it instead of entering the password if that's not intended."
