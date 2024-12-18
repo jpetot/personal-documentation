@@ -169,7 +169,7 @@
 
 ## R resources
 
-Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists 
+Software Development [Resources](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_388#test-functions-so-that-they-do-what-you-expect-them-to-do) for Data Scientists
 
 - Project structure
 - automatic testing
@@ -188,6 +188,7 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 ## Science & Engineering
 
 - How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381)
+- [How to Run a Weekly Paper Club (and Build a Learning Community)c](https://eugeneyan.com//writing/paper-club/)
 - "The best way to understand something is to break it. The second best way is to rewrite it from scratch without using any external libraries". [Vicki Boykis](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/?utm_source=substack&utm_medium=email)
 - A nice to explore data science [interview book](https://book.thedatascienceinterviewproject.com/)
 - [4 Skills the Next Generation of Data Scientists Needs to Develop](https://hbr.org/2023/09/4-skills-the-next-generation-of-data-scientists-needs-to-develop)
@@ -296,6 +297,12 @@ with some great advice as a conclusion.
 - [10 Truths They Won’t Tell You About a Software Job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 - [Elevating Team Performance: Feedback Strategies for Data Science Leaders](https://ericmjl.github.io/blog/2023/12/11/elevating-team-performance-feedback-strategies-for-data-science-leaders/)
 - [stop acting like you are famous](https://ajkprojects.com/stopactinglikeyourefamous)
+- [Software Engineer Titles Have (Almost) Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning) principale reasons:
+  - Companies tend to use titles as retention tactic, especially start-up
+  - linkedIn effect
+  - complexity of tech roles
+  - title promotions as a retention strategy
+- [Categories of leadership on technical teams](https://www.benkuhn.net/leadcats/)
   
 ### Hiring & Onboarding
 

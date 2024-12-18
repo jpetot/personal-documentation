@@ -36,6 +36,7 @@ alias vzsh='vim ~/personnal-documentation/.dotfiles/.zshrc'
 alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
 alias m='make'
+alias j='just' 
 alias prp='DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest'
 alias analyses='~/projets/analyses'
 alias infra="cd /Users/julien/projets/avatar/infra"
