@@ -194,5 +194,23 @@
     {
         "key": "shift+cmd+r",
         "command": "pylance.extractMethodWithRename"
+    },
+    {
+        "key": "shift+cmd+b",
+        "command": "-workbench.action.tasks.build",
+        "when": "taskCommandsRegistered"
+    },
+    {
+        "key": "shift+cmd+b",
+        "command": "workbench.action.closePanel"
+    },
+    {
+        "key": "cmd+l",
+        "command": "python.viewOutput"
+    },
+    {
+        "key": "cmd+l",
+        "command": "-expandLineSelection",
+        "when": "textInputFocus"
     }
 ]

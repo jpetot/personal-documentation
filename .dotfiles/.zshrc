@@ -16,31 +16,13 @@ alias ghpc='gh pr create'
 alias gpl='git pull'
 alias dps='docker ps'
 alias bubu='brew update && brew upgrade'
-
-alias projets='cd ~/projets'
-alias avatar='cd ~/projets/avatar'
-alias core='cd ~/projets/avatar/core'
-alias platform='cd ~/projets/avatar/platform'
-alias api='cd ~/projets/avatar/platform/api'
-alias dotfiles='cd ~/personnal-documentation/.dotfiles'
-alias saiph='cd ~/projets/saiph'
-alias apython='cd ~/projets/avatar/client/build/avatar-python'
-alias paper='cd ~/projets/paper/avatar-paper'
-alias julien-analysis='cd ~/projets/julien-analysis'
 alias c="code ."
-alias perso="cd ~/personnal-documentation"
-alias client='cd ~/projets/avatar/client'
 alias ghpv='gh pr view -w'
-alias client='cd ~/projets/avatar/client/'
 alias vzsh='vim ~/personnal-documentation/.dotfiles/.zshrc'
 alias vrm="vim ~/personnal-documentation/README.md"
 alias make='gmake'
 alias m='make'
 alias j='just' 
-alias prp='DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest'
-alias analyses='~/projets/analyses'
-alias infra="cd /Users/julien/projets/avatar/infra"
-alias quality="cd /Users/julien/projets/avatar/quality_test"
 # function 
 function prpk() {DOTENV=.env.dev SECRETS_DIR="../.secrets" poetry run pytest -k "$1";}
 
@@ -76,6 +58,7 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include"
 # export diff so fancy for a better git diff 
 export  PATH="/Users/julien/projets/diff-so-fancy/diff-so-fancy:$PATH"
 export PATH="$HOME/.local/bin/poetry:$PATH"
+export PATH="/opt/homebrew/opt/python/libexec/bin:$PATH" 
 
 ## export env variables 
 export AVATAR_BASE_URL="http://localhost:8000"
@@ -91,8 +74,6 @@ export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
 # for gcp 
 source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
 
-# asdf
-. /opt/homebrew/opt/asdf/libexec/asdf.sh
 
 # zsh completions (completion in makefile)
 if type brew &>/dev/null; then
@@ -104,3 +85,9 @@ if type brew &>/dev/null; then
   fi
 
 . "$HOME/.cargo/env"
+
+#direnv
+eval "$(direnv hook zsh)"
+
+#mise
+eval "$(mise activate zsh)"

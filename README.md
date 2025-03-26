@@ -5,10 +5,11 @@
   - [Resources](#resources)
   - [Typing practice](#typing-practice)
   - [Python or computer science documentations](#python-or-computer-science-documentations)
-    - [Development](#development)
+    - [Software Development](#software-development)
     - [Data Science](#data-science)
     - [Efficient similarity search (KNN)](#efficient-similarity-search-knn)
     - [LLM](#llm)
+    - [Images and pictures](#images-and-pictures)
     - [Profiling](#profiling)
     - [Testing](#testing)
     - [Decorators](#decorators)
@@ -50,12 +51,13 @@
 
 ## Python or computer science documentations
 
-### Development
+### Software Development
 
 - [Duck typing in Python](https://realpython.com/duck-typing-python/#using-protocols-and-abcs))
 - [What clean code means in Python](https://testdriven.io/blog/clean-code-python/?v=1)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ### Data Science
 
@@ -89,6 +91,9 @@
 ### LLM
 
 - [The Definitive Guide to Synthetic Data Generation Using LLMs](https://www.confident-ai.com/blog/the-definitive-guide-to-synthetic-data-generation-using-llms)
+
+### Images and pictures
+- [From PDFs to AI-ready structured data: a deep dive](https://explosion.ai/blog/pdfs-nlp-structured-data)
 
 ### Profiling
 
@@ -158,6 +163,7 @@
 - Python [asterisks](https://bas.codes/posts/python-asterisks)
 - Awesome data science [setting](https://github.com/RamiKrispin/awesome-ds-setting)
 - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
+- [Just cheat sheet](https://cheatography.com/linux-china/cheat-sheets/justfile/)
 
 ### Security
 
@@ -178,13 +184,13 @@ Software Development [Resources](https://www.rstudio.com/blog/software-developme
 
 ## Git and Github
 
-- [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): One (not easy) distinction you must understand when using git
+- [Merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): One (not easy) distinction you must understand when using gecho echo it
 
 - [ohshitgit](https://ohshitgit.com/): good and bad situation when using git
 - [how to speed up your git](https://www.git-tower.com/blog/git-performance)
 - [why do you need a monorepo](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/#head-and-heads)
-
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 ## Science & Engineering
 
 - How to/I read [research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381)
@@ -303,6 +309,7 @@ with some great advice as a conclusion.
   - complexity of tech roles
   - title promotions as a retention strategy
 - [Categories of leadership on technical teams](https://www.benkuhn.net/leadcats/)
+- [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/)
   
 ### Hiring & Onboarding
 
@@ -344,10 +351,13 @@ rectangle (for macos)
 
 [freedium](https://freedium.cfd/): another alternative to medium
 
+[macOS tips and tricks](https://saurabhs.org/macos-tips)
+
 ### shell tools
 
 - [autojump](https://github.com/wting/autojump) : autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
 - [run gh action locally with act](https://github.com/nektos/act)
+- [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 
 ## Sports
 
@@ -364,6 +374,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 
 [py sport](https://opensource.pysport.org/): diversity of package PySports is a curated collection of sports-related open-source analytics projects. Includes Python libraries and R packages for accessing, analyzing, modeling, and visualizing data from a wide variety of sports, such as baseball, basketball, football, hockey, cycling, and more.
 
+- Who is the GOAT in tennis, box, .. : [Algorithm](https://truetheta.io/concepts/machine-learning-and-other-topics/true-skill-part-1/), [Results](https://truetheta.io/concepts/machine-learning-and-other-topics/true-skill-part-2/)
 ## Cool and funny project
 
 - [24 hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
@@ -382,6 +393,7 @@ https://soccermatics.readthedocs.io/en/latest/lesson1/VisualisingFootball.html
 - [After-hours work and Decreased Productivity](https://slack.com/intl/fr-fr/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 - [My favorite Math joke](https://arxiv.org/abs/2403.01010): For many years, I have been collecting math jokes and posting them on my website. I have more than 400 jokes there. In this paper, which is an extended version of my talk at the G4G15, I would like to present 66 of them.
 - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology): how developmental biology might contain the secrets to life, intelligence, and immortality
+- [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 
 ## Thread X
 
